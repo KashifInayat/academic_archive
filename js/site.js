@@ -1,6 +1,6 @@
 
-var webBaseURL = "https://kashifinayat.github.io/me/";
-var webURL = "https://kashifinayat.github.io/me/index.html";
+var webBaseURL = "file:///D:/3.%20Extra/website/web-app/";
+var webURL = "file:///D:/3.%20Extra/website/web-app/index.html";
 
 var about = {
     "name": "Kashif Inayat",
@@ -326,12 +326,13 @@ var publications = {
 
 var honorsAwards = {
     "honors": [
-        {
-            "title": "The Most External Impact Award",
-            "detail": 'Participated in NDN Hackathon as a Team Lead and Won “Most External Impact" at the 11th Named Data Networking Hackathon sponsered by NDN Consortium on May 21-23, 2019 at USA - Virtual',
-            "link": 'https://11th-ndn-hackathon.named-data.net/',
-            "comments": "Remote Participation",
+       {
+            "title": "Global Scholarship (Approx. $22,000)",
+            "detail": 'Awarded by Hongik University, Republic of Korea, for Master of Science Degree in Electronics and Computer Engineering. (March, 2017 - Feb, 2019).',
+            "link": "",
+            "comments": "",
         }
+        
       
     ]
 }
@@ -505,7 +506,7 @@ function aboutRendering() {
     document.getElementById("abaoutHeading").innerText = about.heading;
     var myList = '<ul class="c-socials u-mb-35">';
     about.profles.forEach(function (profile) {
-
+	
 	if(profile.icon=="github" | profile.icon=="twitter" | profile.icon=="linkedin" | profile.icon=="blogger"){
 	myList += '<li class="c-socials__item"><a href="' + profile.link + '" class="c-socials__link" target="_blank"><i class="icofont icofont-social-' + profile.icon + '"></i></a></li>';}
 	else if (profile.icon=="email"){
