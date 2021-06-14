@@ -1,14 +1,16 @@
 
+//Home
 //var webBaseURL = "file:///C:/Users/Engr.%20Kashif/Desktop/website/web-app/index.html";
 //var webURL = "file:///C:/Users/Engr.%20Kashif/Desktop/website/web-app/index.html";
 
 
+//Lab
+//var webBaseURL = "file:///D:/3.%20Extra/website/web-app/";
+//var webURL = "file:///D:/3.%20Extra/website/web-app/index.html";
 
-var webBaseURL = "file:///D:/3.%20Extra/website/web-app/";
-var webURL = "file:///D:/3.%20Extra/website/web-app/index.html";
-
-//var webBaseURL = "https://kashifinayat.github.io/me/";
-//var webURL = "https://kashifinayat.github.io/me/index.html";
+//github
+var webBaseURL = "https://kashifinayat.github.io/me/";
+var webURL = "https://kashifinayat.github.io/me/index.html";
 
 var about = {
     "name": "Kashif Inayat",
