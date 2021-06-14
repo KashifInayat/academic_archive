@@ -1,6 +1,14 @@
 
-var webBaseURL = "https://kashifinayat.github.io/me/";
-var webURL = "https://kashifinayat.github.io/me/index.html";
+//var webBaseURL = "file:///C:/Users/Engr.%20Kashif/Desktop/website/web-app/index.html";
+//var webURL = "file:///C:/Users/Engr.%20Kashif/Desktop/website/web-app/index.html";
+
+
+
+var webBaseURL = "file:///D:/3.%20Extra/website/web-app/";
+var webURL = "file:///D:/3.%20Extra/website/web-app/index.html";
+
+//var webBaseURL = "https://kashifinayat.github.io/me/";
+//var webURL = "https://kashifinayat.github.io/me/index.html";
 
 var about = {
     "name": "Kashif Inayat",
@@ -64,7 +72,7 @@ var about = {
     ],
     "aboutText": [
         {
-            "text1": "Kashif Inayat currently working as a doctorate fellow researcher at System-on-Chips (SoC) Laboratory, Electronics Engineering Department of Incheon National University, South Korea. He considers himself fortunate to have the opportunity to work under Prof. Jaeyong Chung at Incheon National University. Prior to starting his Ph.D., he completed his Master of Science in Electronics and Computer Engineering (ECE) from graduate school, Hongik University in 2019 under the supervision of Prof. Seong Oun Hwang.",
+            "text1": "Kashif Inayat currently working as a doctorate fellow researcher at System-on-Chips (SoC) Laboratory , Electronics Engineering Department of Incheon National University, South Korea. He considers himself fortunate to have the opportunity to work under Prof. Jaeyong Chung at Incheon National University. Prior to starting his Ph.D., he completed his Master of Science in Electronics and Computer Engineering (ECE) from graduate school, Hongik University in 2019 under the supervision of Prof. Seong Oun Hwang.",
 			"text2": "And received his Bachelor's degree in Electronic Engineering from Iqra University Islamabad Campus, Pakistan under the supervision of Prof. Viqar Ahmed in 2014. After completing his undergrad degree, he worked at Computing and Technology Department, Iqra University as a Lab Engineer for 2.7 years.",
             "text3": " Moreover, during MS studies he worked at Information Security and Machine Learning Lab, Hongik University, South Korea as a graduate researcher for 2.5 years. Furthermore, he chaired the special sessions at International Conference on Green and Human Information Technology (ICGHIT 2019), held at Kuala Lumpur, Malaysia (Jan, 16-18, 2019). Moreover, he is a registered member of the Pakistan Engineering Council and a reviewer for the IEEE Access Journal."
         }
@@ -119,7 +127,7 @@ var researchInterest = {
             "links": [
                 {
                     "text": "View Publications",
-                    "link": "https://kashifinayat.github.io/me/publications",
+                    "link": "https://kashif.inayat.com/publications",
                 }
             ],
             "isTagLine": "false"
@@ -130,7 +138,7 @@ var researchInterest = {
             "links": [
                 {
                     "text": "View Publications",
-                    "link": "https://kashifinayat.github.io/me/publications",
+                    "link": "https://kashif.inayat.com/publications",
                 }
             ],
             "isTagLine": "false"
@@ -141,7 +149,7 @@ var researchInterest = {
             "links": [
                 {
                     "text": "View Publications",
-                    "link": "https://kashifinayat.github.io/me/publications",
+                    "link": "https://kashif.inayat.com/publications",
                 }
             ],
             "isTagLine": "false"
@@ -153,7 +161,7 @@ var researchInterest = {
             "links": [
                 {
                     "text": "View Publications",
-                    "link": "https://kashifinayat.github.io/me/publications",
+                    "link": "https://kashif.inayat.com/publications",
                 }
             ],
             "isTagLine": "false"
@@ -164,7 +172,7 @@ var researchInterest = {
             "links": [
                 {
                     "text": "View Publications",
-                    "link": "https://kashifinayat.github.io/me/publications",
+                    "link": "https://kashif.inayat.com/publications",
                 }
             ],
             "isTagLine": "true"
@@ -175,7 +183,7 @@ var researchInterest = {
             "links": [
                 {
                     "text": "View Publications",
-                    "link": "https://kashifinayat.github.io/me/publications",
+                    "link": "https://kashif.inayat.com/publications",
                 }
             ],
             "isTagLine": "false"
@@ -322,17 +330,91 @@ var publications = {
     ]
 }
 
+/* 
+var shortCourses = {
+    "experience": [
+         {
+             "title": {
+                "name": "Crash Course on Python ",
+                "link": "https://www.coursera.org/account/accomplishments/verify/VKVGYN235CM3",
+            }
+			"Platform": 'Google, Coursera. ',
+            "date": "July, 1, 2020",
+        }
+		
+        
+    ]
+} */
 
-
+var workExperience = {
+    "experience": [
+         {
+            "title": "Doctorate Fellow Researcehrs at System on Chips Lab, INU, South Korea",
+            "detail": 'I specificaly working on neuromorphic systems (more specifically Systolic Arrays, and Accelerators), computationally efficient and low power ASICs hardware designs for artificial intelligence (AI) in collaboration with Samsung Electronics. ',
+            "link": "https://sites.google.com/site/robustsystemslab2/members",
+            "date": "September, 2019 - Current",
+        },
+        {
+            "title": "Graduate Researcher at Research and Development Institute INU, South Korea",
+            "detail": 'I worked on Systolic Arrays, Multipliers (Radix-4, Radix-8), Adder (CSA, CPA etc) and their data flows and applied these concepts to tensor processing core, further details given under projects.',
+            "link": "https://sites.google.com/site/robustsystemslab2/members",
+            "date": "May, 2019 - August, 2019",
+        },
+		
+		 {
+            "title": "Registered Researcher SamsungFTF, South Korea",
+            "detail": 'During Ph.D., I worked on projects under Samsung Research Funding and Incubation Center for Future Technolgy (SamsungFTF) to explore the tensor processing cores and machine learning accelerators (especifically UC Berkeley accelerator Gemmini). Work on tensor processing published at DAC 2020 and work on Gemmini accelerator published at MDPI Electronics.',
+            "link": "https://sites.google.com/site/robustsystemslab2/members",
+            "date": "May, 2019 - August, 2019",
+        },
+		
+		 {
+            "title": "Graduate Researher at ISML Lab, Hongik University, South Korea",
+            "detail": ' During M.S., at Information Secuity and Machine Learning Lab, I worked on blockchain, asymmetric and code-based cryptography and their applications in IoT’s.',
+            "link": "https://ai-security.github.io/",
+            "date": "May, 2019 - August, 2019",
+        },
+		{
+            "title": "Lab Engineer at Digital System Design Lab, Iqra University, Pakistan",
+            "detail": ' Here, my responsibility was to conduct the labs of the following courses of undergrad students Computer Architecture [Spring/Fall 2015], Digital Logic Design [Spring/Fall 2016]. However, in the beginning, I also conducted Industrial Electronics course lab [Fall 2014]. Furthermore, I was involved in multiple undergrad projects, detail given in projects section.',
+            "link": "https://iuisl.iqra.edu.pk/",
+            "date": "May, 2019 - August, 2019",
+        },
+		
+		{
+            "title": "Intern at Renzym Private Limited",
+            "detail": ' Here, my responsibility was to conduct the labs of the following courses of undergrad students Computer Architecture [Spring/Fall 2015], Digital Logic Design [Spring/Fall 2016]. However, in the beginning, I also conducted Industrial Electronics course lab [Fall 2014]. Furthermore, I was involved in multiple undergrad projects, detail given in projects section.',
+            "link": "http://www.renzym.com/",
+            "date": "May, 2019 - August, 2019",
+        }
+		
+		
+        
+    ]
+}
 var honorsAwards = {
     "honors": [
+	
+		{
+            "title": "Full Scholarship (Approx. $50,000)",
+            "detail": 'Awarded by Incehon National University, South Korea, for Ph.D Degree in Electronics Engineering. (September, 2019 - Feb, 20).',
+            "link": "",
+            "comments": "",
+        },
        {
-            "title": "Global Scholarship (Approx. $22,000)",
-            "detail": 'Awarded by Hongik University, Republic of Korea, for Master of Science Degree in Electronics and Computer Engineering. (March, 2017 - Feb, 2019).',
+            "title": "Global Scholarship (Approx. $11,000/year)",
+            "detail": 'Awarded by Hongik University, South Korea, for M.S Degree in Electronics and Computer Engineering. (March, 2017 - Feb, 2019).',
+            "link": "",
+            "comments": "",
+        },
+        
+		 {
+            "title": "Undergrad Merit Scholarship (Approx. $600/semester)",
+            "detail": 'Awarded by Iqra University, Islamabad Campus, Pakistan for B.E Degree in Electronics Engineering. (September, 2010 - Ausgust, 2014).',
             "link": "",
             "comments": "",
         }
-        
+		
       
     ]
 }
@@ -342,11 +424,10 @@ var educationList = {
     "educationList": [
         {
             "date": "2019-Present",
-            "title": "Ph.D. Electronics Engineering",
+            "title": "Ph.D., Electronics Engineering",
             "thesis": "To be decided (expected graduation month is December 2022)",
             "major": "Neruomorphic Computing and ML Accelerators",
-            "department": " Department of Electronics Engineering",
-            "university": "Inceon National University, Republic of Korea",
+            "department": " Department of Electronics Engineering, Inceon National University (INU), South Korea",
             "advisorInfo": {
                 "name": "Prof. Jaeyong Chung",
                 "link": "https://sites.google.com/site/robustsystemslab2/members",
@@ -354,12 +435,9 @@ var educationList = {
         },
         {
             "date": "2017-2019",
-            "title": "Master of Science in Electronics and Computer Engineering",
+            "title": "M.S., in Electronics and Computer Engineering",
             "thesis": "A Lightweight Public Key Encryption with Equality Test (LW-PKEET) for Distributed Systems",
-            //"detail": "Major in ,  Hongik University, South Korea",
-            "major": "Symmteric and Asymmetric Cryptography",
-            "department": " Department of Electronics and Computer Engineering",
-            "university": "Hongik University, Sejong, Republic of Korea",
+            "department": " Department of Electronics and Computer Engineering, Hongik University, Sejong, South Korea",
             "advisorInfo": {
                 "name": "Prof. Seong Oun Hwang",
                 "link": "https://ai-security.github.io/",
@@ -367,12 +445,10 @@ var educationList = {
         },
         {
             "date": "20010-2014",
-            "title": "Bachelor in Electronic Engineering",
+            "title": "B.E., in Electronics Engineering",
             "thesis": "Power Generation through Dish Stirling Technology",
-            "detail": "Major in Embedded System and Wireless Communications",
-            "major": "Embedded System and Wireless Communications",
-            "department": "Department of Electronics & Communication",
-            "university": " Iqra Univerisity, Islamabad Campus, Pakistan",
+            "detail": "",
+            "department": "Department of Electronics Engineering, Iqra Univerisity, Islamabad Campus, Pakistan",
             "advisorInfo": {
                 "name": "Prof. Viqar Ahmed",
                 "link": "https://scholar.google.com.au/citations?user=d6zRmr0AAAAJ&hl=en/",
@@ -380,12 +456,10 @@ var educationList = {
         },
 		{
             "date": "2006-2009",
-            "title": "Diploma of Associate Engineering in Electronic",
+            "title": "Diploma of Associate Engineering in Electronics",
             "thesis": "Digital Clock Using 8051 Microcontroller",
             "detail": "Electronics",
-            "major": "Electronics",
-            "department": "Department of Electronics Engineering",
-            "university": "Government Polytechnic Institute, Sargodha, Pakistan",
+            "department": "Department of Electronics Engineering, Government Polytechnic Institute (GPI), Sargodha, Pakistan",
             "advisorInfo": {
                 "name": "Lec. Ajmeery Lal",
                 "link": "",
@@ -393,49 +467,7 @@ var educationList = {
         }
     ]
 }
-/* var hobbiesList = {
-    "hobbies": [
-        {
-            "name": "Travelling",
-            "title": "My Favourite Places",
-            "list": [
-                "Paula, Croatia",
-                "SPLIT, Croatia",
-                "Neelam Valley, Azad Kashmir, Pakistan",
-                "Swat Valley, Khyber Pakhtunkhwa, Pakistan",
-                "Kalam Valley, Khyber Pakhtunkhwa, Pakistan",
-                "Shogran valley, Khyber Pakhtunkhwa, Pakistan",
-                "Jeju Island The Self Governing Province, South korea",
-            ]
-        },
-        {
-            "name": "Reading Books",
-            "title": "Favourite Books",
-            "list": [
-                "Peer-e-kamil, The Perfect Mentor By Umera Ahmed",
-                "The Travels of Marco Polo, By Marco Polo",
-                "Eat That Frog By Brian tracy",
-                "How to Get from Where You Are to Where you Want to Be By Jack Canfield",
-                "How to Win Friends & Influence People By Dale Carnegie",
-            ]
-        },
-        {
-            "name": "Watching Historical Movies & Seasons",
-            "title": "Favourite Moviews & Seasons",
-            "list": [
-                "Age of Samurai: Battle for Japan",
-                "Ertugrul",
-                "Vikings (TV Series 2013–2018 ) ",
-                "The Last Kingdom (TV Series 2015–2017 )",
-                "Da Vinci's Demons (TV Series 2013–2015)",
-                "The Borgias (TV Series 2011–2013)",
-                "Game of Thrones (TV Series 2011– 2018)",
-                "Peaky Blinders (TV Series 2013–2017) ",
-                "Narcos (TV Series 2015– 2018)"
-            ]
-        },
-    ]
-} */
+
 
 var contacts = {
     "contact":
@@ -486,27 +518,12 @@ function researchRendering(){
     });
     document.getElementById("researchDiv").innerHTML = myList;
 }
-function hobbiesRendering(){
-    debugger
-    var myList = '';
-    hobbiesList.hobbies.forEach(function (hobby) {
-
-        var hobbyList = '';
-        hobby.list.forEach(function (item) {
-            hobbyList += '<a class="c-card__link" href="#">' + item + '</a>';
-        });
-
-        myList += ' <div class="c-card__item js-toggle-modal"><div class="c-card__sizer"></div><div class="c-card__inner"><div class="c-card__icon"><i class="icofont icofont-molecule"></i> </div> <h4 class="c-card__header">' + hobby.name + '</h4><div class="c-card__content js-card-content"> <p class="c-card__text"></p> </div><div class="c-card__modal-content js-card-modal-content"><p class="c-card__text">' + hobby.title + '</p> ' + hobbyList + '</div></div> <div class="c-card__button">   <button class="c-card__button-field" type="button"></button></div></div>';
-    });
-    debugger
-    document.getElementById("hobbiesDiv").innerHTML = myList;
-}
 function aboutRendering() {
     document.getElementById("adboutName").innerText = about.name;
     document.getElementById("abaoutHeading").innerText = about.heading;
     var myList = '<ul class="c-socials u-mb-35">';
     about.profles.forEach(function (profile) {
-	
+
 	if(profile.icon=="github" | profile.icon=="twitter" | profile.icon=="linkedin" | profile.icon=="blogger"){
 	myList += '<li class="c-socials__item"><a href="' + profile.link + '" class="c-socials__link" target="_blank"><i class="icofont icofont-social-' + profile.icon + '"></i></a></li>';}
 	else if (profile.icon=="email"){
@@ -543,27 +560,39 @@ function professionalServicesRendering() {
         window.location.href == webBaseURL + '#section-about' ||
         window.location.href == webBaseURL) {
         displayEducation();
+		displayWorkExperience();
         displayHonorsAwards();
-        displayAcademicExperience();
-        displayIndustryExperience();
-        displayProjects();
-        displayOpenSourceProjects();
-        displayReviewerServices();
-        displayTPCServices();
-        displayTalks();
-        displayPresentations();
-        displayInternationalMeetings();
+		
+        
     }
 }
 function displayEducation() {
     var myList = ' <ul class="c-timeline__list">';
     educationList.educationList.forEach(function (education) {
 
-        myList += '<li class="c-timeline__item"> <header class="c-timeline__header"><span class="c-timeline__time">' + education.date + '</span><span class="c-timeline__line"></span><h4 class="c-timeline__heading">' + education.title + '</h4></header><p class="c-timeline__body"> <strong>Majors:</strong> ' + education.major + '</p><p class="c-timeline__body"> <strong>Thesis: </strong>' + education.thesis + '</p><p class="c-timeline__body"> <strong>Advisor: </strong> <a target="_blank" style="text-decoration:underline; color:blue" href="' + education.advisorInfo.link + '">' + education.advisorInfo.name + '</a></p><p class="c-timeline__body"> <strong>Department: </strong>' + education.department + '</p><p class="c-timeline__body"> <strong>University: </strong>' + education.university + '</p> </li>';
+        myList += '<li class="c-timeline__item"> <header class="c-timeline__header"><span class="c-timeline__time">' + education.date + '</span><span class="c-timeline__line"></span><h4 class="c-timeline__heading">' + education.title + '</h4></header><p class="c-timeline__body"> <strong>Thesis: </strong>' + education.thesis + '</p><p class="c-timeline__body"> <strong>Advisor: </strong> <a target="_blank" style="text-decoration:underline; color:blue" href="' + education.advisorInfo.link + '">' + education.advisorInfo.name + '</a></p><p class="c-timeline__body"> <strong>Department: </strong>' + education.department + '</p></li>';
     });
     myList += '</ul>';
     document.getElementById("educationDiv").innerHTML = myList;
 }
+
+
+//shortCourses
+
+
+//workExperience
+
+function displayWorkExperience() {
+    var myList = '<ul class="c-tabs__list" style="text-align: justify">';
+    workExperience.experience.forEach(function (experience) {
+
+        myList += '<li><h4>  <a style="color: blue; text-decoration:underline" href="' + experience.link + '" target="_blank">' + experience.title + '</a><span style="float:right">' + experience.date + '</span></h4><p>' + experience.detail + '</p></li>';
+    });
+    myList += '</ul>';
+    document.getElementById("workExperinceDiv").innerHTML = myList;
+}
+
+//Honors
 function displayHonorsAwards() {
     var myList = '<ul class="c-tabs__list" id="honorsawardul">';
     honorsAwards.honors.forEach(function (honor) {
@@ -574,101 +603,8 @@ function displayHonorsAwards() {
     document.getElementById("honorsawardDiv").innerHTML = myList;
 }
 
-function displayAcademicExperience() {
-    var myList = '<ul class="c-tabs__list" style="text-align: justify">';
-    academicExperience.experience.forEach(function (experience) {
 
-        myList += '<li><h4>  <a style="color: blue; text-decoration:underline" href="' + experience.link + '" target="_blank">' + experience.title + '</a><span style="float:right">' + experience.date + '</span></h4><p>' + experience.detail + '</p></li>';
-    });
-    myList += '</ul>';
-    document.getElementById("academicExperinceDiv").innerHTML = myList;
-}
 
-function displayIndustryExperience() {
-    var myList = '<ul class="c-tabs__list" style="text-align: justify">';
-    industryExperience.experience.forEach(function (experience) {
-
-        myList += '<li><h4>  <a style="color: blue; text-decoration:underline" href="' + experience.link + '" target="_blank">' + experience.title + '</a><span style="float:right">' + experience.date + '</span></h4><p>' + experience.detail + '</p></li>';
-    });
-    myList += '</ul>';
-    document.getElementById("industryExperinceDiv").innerHTML = myList;
-}
-
-function displayProjects() {
-    var myList = '  <ul class="c-tabs__list">';
-    researchProjects.projects.forEach(function (project) {
-
-        myList += '<li><h4>' + project.title + '</h4> <p>' + project.detail + '</p></li>';
-    });
-    myList += '</ul>';
-    document.getElementById("researchProjectsDiv").innerHTML = myList;
-}
-
-function displayOpenSourceProjects() {
-    var myList = '  <ul class="c-tabs__list">';
-    openSourceProjects.projects.forEach(function (project) {
-
-        myList += '<li><h4>' + project.title + '</h4><p><span style="font-weight:bold">Keywords:</span> ' + project.detail + '</p> <p><span style="font-weight:bold">URL:</span> <a target="_blank" href="' + project.link + '">' + project.link + '</a></p></li>';
-    });
-    myList += '</ul>';
-    document.getElementById("openSourceProjectsDiv").innerHTML = myList;
-}
-
-function displayEditorialServices() {
-    var myList = '  <ul class="c-tabs__list">';
-    reviewerServices.reviewers.forEach(function (reviewer) {
-
-        myList += '<li><h4>' + reviewer.title + '</h4> <p>' + reviewer.detail + ' <br /> <a style="text-decoration: underline" target="_blank" href="' + reviewer.link + '" >View my verified reviews on publons</a> </p></li>';
-    });
-    myList += '</ul>';
-    document.getElementById("reviewerServicesDiv").innerHTML = myList;
-}
-
-function displayReviewerServices() {
-    var myList = '  <ul class="c-tabs__list">';
-    reviewerServices.reviewers.forEach(function (reviewer) {
-
-        myList += '<li><h4>' + reviewer.title + '</h4> <p>' + reviewer.detail + ' <br /> <a style="text-decoration: underline" target="_blank" href="' + reviewer.link + '" >View my verified reviews on publons</a> </p></li>';
-    });
-    myList += '</ul>';
-    document.getElementById("reviewerServicesDiv").innerHTML = myList;
-}
-function displayTalks() {
-    var myList = '  <ul class="c-tabs__list">';
-    invitedTalks.talks.forEach(function (talk) {
-
-        myList += '<li><h4>' + talk.title + '</h4> <p> <strong>Venue: </strong>' + talk.venue + ' <br />  </p></li>';
-    });
-    myList += '</ul>';
-    document.getElementById("invitedDiv").innerHTML = myList;
-}
-function displayPresentations() {
-    var myList = '  <ul class="c-tabs__list">';
-    presentations.presetations.forEach(function (presetation) {
-
-        myList += '<li><h4>' + presetation.title + '</h4> <p> <strong>Venue: </strong>' + presetation.venue + ' <br />  </p></li>';
-    });
-    myList += '</ul>';
-    document.getElementById("presentationDiv").innerHTML = myList;
-}
-function displayInternationalMeetings() {
-    var myList = '  <ul class="c-tabs__list">';
-    internationalMeetings.meetings.forEach(function (meeting) {
-
-        myList += '<li><h4>' + meeting.title + '</h4> <p> <strong>Venue: </strong>' + meeting.venue + ' <br />  </p></li>';
-    });
-    myList += '</ul>';
-    document.getElementById("meetingDiv").innerHTML = myList;
-}
-function displayTPCServices() {
-    var myList = '  <ul class="c-tabs__list">';
-    tpcServices.members.forEach(function (memeber) {
-
-        myList += '<li><h4>' + memeber.title + '</h4> <p>' + memeber.detail + ' <br /> <a style="text-decoration: underline" target="_blank" href="' + memeber.link + '" >View detail</a> </p></li>';
-    });
-    myList += '</ul>';
-    document.getElementById("tpcServicesDiv").innerHTML = myList;
-}
 
 function publicationRendering() {
     if (window.location.href.includes("publications.html")) {
