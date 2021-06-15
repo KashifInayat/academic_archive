@@ -129,7 +129,7 @@ var researchInterest = {
             "links": [
                 {
                     "text": "View Publications",
-                    "link": "https://kashifinayat.github.io/me/publications.html",
+                    "link": "https://kashifinayat.github.io/me/publications.htmls",
                 }
             ],
             "isTagLine": "false"
