@@ -1,19 +1,12 @@
 
-//Home
-//var webBaseURL = "file:///C:/Users/Engr.%20Kashif/Desktop/website/web-app/index.html";
-//var webURL = "file:///C:/Users/Engr.%20Kashif/Desktop/website/web-app/index.html";
-
-
-//Lab
-//var webBaseURL = "file:///D:/3.%20Extra/website/web-app/";
-//var webURL = "file:///D:/3.%20Extra/website/web-app/index.html";
-
-//github
 var webBaseURL = "https://kashifinayat.github.io/me/";
 var webURL = "https://kashifinayat.github.io/me/index.html";
 
+//var webBaseURL = "file:///C:/Users/Engr.%20Kashif/Desktop/website/tmp/web-app/";
+ //var webURL = "file:///C:/Users/Engr.%20Kashif/Desktop/website/tmp/web-app/index.html";
+
 var about = {
-    "name": "Kashif Inayat",
+   "name": "Kashif Inayat",
     "heading": "PHD RESEARCH SCHOLAR IN ELECTRONICS AND COMPUTER ENGINEERING",
     "profles": [
 	
@@ -67,10 +60,6 @@ var about = {
             "icon": "email",
         }
 		
-		
-		
-		
-		
     ],
     "aboutText": [
         {
@@ -82,7 +71,7 @@ var about = {
 }
 
 var recentUpdates = {
-    "updates": [
+     "updates": [
         {
             "date": "March 11, 2021",
             "text": 'Paper entitled “Carry-Propagation-Adder-Factored Gemmini Systolic Array for Machine Learning Acceleration" has been accepted for publication in MDPI Electronics Journal. (Impact Factor= 2.412)',
@@ -129,7 +118,7 @@ var researchInterest = {
             "links": [
                 {
                     "text": "View Publications",
-                    "link": "https://kashif.inayat.com/publications",
+                    "link": "https://kashifinayat.github.io/me//publications",
                 }
             ],
             "isTagLine": "false"
@@ -140,7 +129,7 @@ var researchInterest = {
             "links": [
                 {
                     "text": "View Publications",
-                    "link": "https://kashif.inayat.com/publications",
+                    "link": "https://kashifinayat.github.io/me//publications",
                 }
             ],
             "isTagLine": "false"
@@ -151,7 +140,7 @@ var researchInterest = {
             "links": [
                 {
                     "text": "View Publications",
-                    "link": "https://kashif.inayat.com/publications",
+                    "link": "https://kashifinayat.github.io/me//publications",
                 }
             ],
             "isTagLine": "false"
@@ -163,7 +152,7 @@ var researchInterest = {
             "links": [
                 {
                     "text": "View Publications",
-                    "link": "https://kashif.inayat.com/publications",
+                    "link": "https://kashifinayat.github.io/me//publications",
                 }
             ],
             "isTagLine": "false"
@@ -174,7 +163,7 @@ var researchInterest = {
             "links": [
                 {
                     "text": "View Publications",
-                    "link": "https://kashif.inayat.com/publications",
+                    "link": "https://kashifinayat.github.io/me//publications",
                 }
             ],
             "isTagLine": "true"
@@ -185,7 +174,7 @@ var researchInterest = {
             "links": [
                 {
                     "text": "View Publications",
-                    "link": "https://kashif.inayat.com/publications",
+                    "link": "https://kashifinayat.github.io/me//publications",
                 }
             ],
             "isTagLine": "false"
@@ -193,6 +182,7 @@ var researchInterest = {
 
     ]
 }
+
 var publications = {
     "journals": [
         {
@@ -231,7 +221,7 @@ var publications = {
             "publicationTitle": "Robust Baggage Detection and Classification Based on Local Tri-directional Pattern",
             "publicationVenue": "International Journal of Internet Technology and Secured Transactions",
             "publicationVenueInformation": "ISSN: 1748-5703",
-            "publicationDownloadText": "Download",
+            "publicationDownloadText": "View",
             "publicationDownloadLink": "https://arxiv.org/abs/2006.07345",
             "publicationImpactFactor": "",
             "comment": "",
@@ -245,7 +235,7 @@ var publications = {
             "publicationTitle": "Energy Efficient Cross Layer Time Synchronization in Cognitive Radio Networks",
             "publicationVenue": "International Journal of Internet Technology and Secured Transactions",
             "publicationVenueInformation": "ISSN: 1748-5703",
-            "publicationDownloadText": "Download",
+            "publicationDownloadText": "View",
             "publicationDownloadLink": "https://www.inderscience.com/info/ingeneral/forthcoming.php?jcode=ijitst5",
             "publicationImpactFactor": "",
             "comment": "",
@@ -261,7 +251,7 @@ var publications = {
             "publicationTitle": "Implementation of Symbol Timing Recovery for Estimation of Clock Skew",
             "publicationVenue": "International Journal of Internet Technology and Secured Transactions",
             "publicationVenueInformation": "ISSN: 1748-5703",
-            "publicationDownloadText": "Download",
+            "publicationDownloadText": "View",
             "publicationDownloadLink": "https://www.inderscience.com/info/ingeneral/forthcoming.php?jcode=ijitst5",
             "publicationImpactFactor": "",
             "comment": "",
@@ -277,7 +267,7 @@ var publications = {
             "publicationTitle": "Factored Radix-8 Systolic Array for Tensor Processing",
             "publicationVenue": "Design Automation Conference, 20-24 July 2020",
             "publicationVenueInformation": "San Francisco, CA USA",
-            "publicationDownloadText": "Download",
+            "publicationDownloadText": "View",
             "publicationDownloadLink": "https://ieeexplore.ieee.org/abstract/document/9218585/",
             "publicationImpactFactor": "",
             "comment": "",
@@ -291,7 +281,7 @@ var publications = {
             "publicationTitle": "Optimized Time Synchronization for Cognitive Radio Networks",
             "publicationVenue": " International Conference on Green and Human Information Technology, 16-18 January 2019",
             "publicationVenueInformation": "Kuala Lumpur, Malaysia",
-            "publicationDownloadText": "Download",
+            "publicationDownloadText": "View",
             "publicationDownloadLink": "https://drive.google.com/file/d/1PwycmlBMk9PWI2ov0dkjiL6YT3_u614l/view",
             "publicationImpactFactor": "",
             "comment": "",
@@ -305,7 +295,7 @@ var publications = {
             "publicationTitle": "Clock Frequency Offset Estimation using Symbol Timing Recovery",
             "publicationVenue": " International Conference on Green and Human Information Technology, 16-18 January 2019",
             "publicationVenueInformation": "Kuala Lumpur, Malaysia",
-            "publicationDownloadText": "Download",
+            "publicationDownloadText": "View",
             "publicationDownloadLink": "https://drive.google.com/file/d/1PwycmlBMk9PWI2ov0dkjiL6YT3_u614l/view",
             "publicationImpactFactor": "",
             "comment": "",
@@ -320,7 +310,7 @@ var publications = {
             "publicationTitle": "Load Balancing Trade Framework for Smart Grid System",
             "publicationVenue": " International Conference on Green and Human Information Technology, 31 January-2 February 2018",
             "publicationVenueInformation": "Chiang Mai, Thailand",
-            "publicationDownloadText": "Download",
+            "publicationDownloadText": "View",
             "publicationDownloadLink": "http://2018.icghit.org/?page_id=76",
             "publicationImpactFactor": "",
             "comment": "",
@@ -329,24 +319,9 @@ var publications = {
 
         }
 
-    ]
-}
+    ]  
 
-/* 
-var shortCourses = {
-    "experience": [
-         {
-             "title": {
-                "name": "Crash Course on Python ",
-                "link": "https://www.coursera.org/account/accomplishments/verify/VKVGYN235CM3",
-            }
-			"Platform": 'Google, Coursera. ',
-            "date": "July, 1, 2020",
-        }
-		
-        
-    ]
-} */
+}
 
 var workExperience = {
     "experience": [
@@ -394,6 +369,7 @@ var workExperience = {
         
     ]
 }
+
 var honorsAwards = {
     "honors": [
 	
@@ -470,7 +446,6 @@ var educationList = {
     ]
 }
 
-
 var contacts = {
     "contact":
     {
@@ -482,7 +457,6 @@ var contacts = {
         "university": "South korea"
     }
 }
-
 
 $(document).ready(function () {
     if (window.location.href.includes("publications.html")) {
@@ -501,7 +475,7 @@ $(document).ready(function () {
     }
 
 });
-function researchRendering(){
+function researchRendering() {
     debugger
     var myList = '';
     researchInterest.interests.forEach(function (interest) {
@@ -520,19 +494,32 @@ function researchRendering(){
     });
     document.getElementById("researchDiv").innerHTML = myList;
 }
+function hobbiesRendering() {
+    debugger
+    var myList = '';
+    hobbiesList.hobbies.forEach(function (hobby) {
+
+        var hobbyList = '';
+        hobby.list.forEach(function (item) {
+            hobbyList += '<a class="c-card__link" href="#">' + item + '</a>';
+        });
+
+        myList += ' <div class="c-card__item js-toggle-modal"><div class="c-card__sizer"></div><div class="c-card__inner"><div class="c-card__icon"><i class="icofont icofont-molecule"></i> </div> <h4 class="c-card__header">' + hobby.name + '</h4><div class="c-card__content js-card-content"> <p class="c-card__text"></p> </div><div class="c-card__modal-content js-card-modal-content"><p class="c-card__text">' + hobby.title + '</p> ' + hobbyList + '</div></div> <div class="c-card__button">   <button class="c-card__button-field" type="button"></button></div></div>';
+    });
+    debugger
+    document.getElementById("hobbiesDiv").innerHTML = myList;
+}
 function aboutRendering() {
     document.getElementById("adboutName").innerText = about.name;
     document.getElementById("abaoutHeading").innerText = about.heading;
     var myList = '<ul class="c-socials u-mb-35">';
     about.profles.forEach(function (profile) {
-
 	if(profile.icon=="github" | profile.icon=="twitter" | profile.icon=="linkedin" | profile.icon=="blogger"){
 	myList += '<li class="c-socials__item"><a href="' + profile.link + '" class="c-socials__link" target="_blank"><i class="icofont icofont-social-' + profile.icon + '"></i></a></li>';}
 	else if (profile.icon=="email"){
 	myList += '<li class="c-socials__item"><a href="' + profile.link + '" class="c-socials__link" target="_blank"><i class="icofont icofont-' + profile.icon + '"></i></a></li>';}
 	else {
 	myList += '<li class="c-socials__item"><a href="' + profile.link + '" class="c-socials__link" target="_blank"><i class="ai ai-' + profile.icon + ' ai-1x"></i></a></li>';}
-	
     });
     myList += '</ul>';
     document.getElementById("aboutProfiles").innerHTML = myList;
@@ -562,9 +549,8 @@ function professionalServicesRendering() {
         window.location.href == webBaseURL + '#section-about' ||
         window.location.href == webBaseURL) {
         displayEducation();
-		displayWorkExperience();
+		//displayWorkExperience();
         displayHonorsAwards();
-		
         
     }
 }
@@ -578,10 +564,6 @@ function displayEducation() {
     document.getElementById("educationDiv").innerHTML = myList;
 }
 
-
-//shortCourses
-
-
 //workExperience
 
 function displayWorkExperience() {
@@ -593,7 +575,6 @@ function displayWorkExperience() {
     myList += '</ul>';
     document.getElementById("workExperinceDiv").innerHTML = myList;
 }
-
 //Honors
 function displayHonorsAwards() {
     var myList = '<ul class="c-tabs__list" id="honorsawardul">';
@@ -605,15 +586,15 @@ function displayHonorsAwards() {
     document.getElementById("honorsawardDiv").innerHTML = myList;
 }
 
-
-
-
 function publicationRendering() {
     if (window.location.href.includes("publications.html")) {
         var paperCount = 1;
         paperCount = displayPapers(publications.journals, 'journals-list', paperCount);
         paperCount = displayPapers(publications.journalsdomestic, 'journalsdomestic-list', paperCount);
-        paperCount = displayPapers(publications.conferences, 'conferences-list', paperCount);  
+        paperCount = displayPapers(publications.conferences, 'conferences-list', paperCount);
+        //paperCount = displayPapers(publications.demos, 'demos-list', paperCount);
+       // paperCount = displayPapers(publications.posters, 'posters-list', paperCount);
+       // paperCount = displayPapers(publications.patents, 'patents-list', paperCount);
 
     }
 }
@@ -621,8 +602,14 @@ function publicationRenderingOnIndex() {
 
         var paperCount = 1;
         paperCount = displayPapers(publications.journals, 'journalDiv', paperCount);
+        //paperCount = displayPapers(publications.patents, 'patentDiv', paperCount);
         paperCount = displayPapers(publications.journalsdomestic, 'journalnonsciDiv', paperCount);
-        paperCount = displayPapers(publications.conferences, 'conferenceiDiv', paperCount); 
+        paperCount = displayPapers(publications.conferences, 'conferenceiDiv', paperCount);
+        //paperCount = displayPapers(publications.demos, 'demoDiv', paperCount);
+        //paperCount = displayPapers(publications.posters, 'posterDiv', paperCount);
+
+
+ 
 }
 
 function displayRecentUpdates(recentUpdateCollection, divId) {
@@ -685,5 +672,8 @@ function displayPapers(paperCollection, divId, paperCount) {
 
     return paperCount;
 }
+
+
+
 
 
