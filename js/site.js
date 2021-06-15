@@ -118,7 +118,7 @@ var researchInterest = {
             "links": [
                 {
                     "text": "View Publications",
-                    "link": "https://kashifinayat.github.io/me//publications",
+                    "link": "https://kashifinayat.github.io/me/publications.html",
                 }
             ],
             "isTagLine": "false"
@@ -129,7 +129,7 @@ var researchInterest = {
             "links": [
                 {
                     "text": "View Publications",
-                    "link": "https://kashifinayat.github.io/me//publications",
+                    "link": "https://kashifinayat.github.io/me/publications.html",
                 }
             ],
             "isTagLine": "false"
@@ -140,7 +140,7 @@ var researchInterest = {
             "links": [
                 {
                     "text": "View Publications",
-                    "link": "https://kashifinayat.github.io/me//publications",
+                    "link": "https://kashifinayat.github.io/me/publications.html",
                 }
             ],
             "isTagLine": "false"
@@ -152,7 +152,7 @@ var researchInterest = {
             "links": [
                 {
                     "text": "View Publications",
-                    "link": "https://kashifinayat.github.io/me//publications",
+                    "link": "https://kashifinayat.github.io/me/publications.html",
                 }
             ],
             "isTagLine": "false"
@@ -163,7 +163,7 @@ var researchInterest = {
             "links": [
                 {
                     "text": "View Publications",
-                    "link": "https://kashifinayat.github.io/me//publications",
+                    "link": "https://kashifinayat.github.io/me/publications.html",
                 }
             ],
             "isTagLine": "true"
@@ -174,7 +174,7 @@ var researchInterest = {
             "links": [
                 {
                     "text": "View Publications",
-                    "link": "https://kashifinayat.github.io/me//publications",
+                    "link": "https://kashifinayat.github.io/me/publications.html",
                 }
             ],
             "isTagLine": "false"
