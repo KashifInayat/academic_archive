@@ -46,8 +46,7 @@
                     <ul class="c-main-nav__list nav-fixed--is-active js-main-nav__list">
                         <li class="c-main-nav__item"><a style="font-weight: 900" href="#section-about" class="c-main-nav__link" data-navPosition="1">about</a></li>
                         <li class="c-main-nav__item"><a style="font-weight: 900" href="#section-education" class="c-main-nav__link" data-navPosition="2">education</a></li>
-                        <li class="c-main-nav__item"><a style="font-weight: 900" href="#section-teaching" class="c-main-nav__link" data-navPosition="3">professional activities</a></li>
-                        
+                        <li class="c-main-nav__item"><a style="font-weight: 900" href="#section-teaching" class="c-main-nav__link" data-navPosition="3">professional activities</a></li>                        
 						<li class="c-main-nav__item"><a style="font-weight: 900" href="#section-research" class="c-main-nav__link" data-navPosition="4">research interests</a></li>
                         <li class="c-main-nav__item"><a style="font-weight: 900" href="#section-publications" class="c-main-nav__link" data-navPosition="5">publications</a></li>
                         <li class="c-main-nav__item"><a style="font-weight: 900" href="#section-contacts" class="c-main-nav__link" data-navPosition="6">contacts</a></li>
@@ -106,17 +105,12 @@
             <div style="width:100%;text-align:justify">
 
                 <!--<h3 class="u-mb-10" style="margin-left:4%">Recent Updates</h3>-->
-                <h3 class="c-section-heading__header u-mb-10">Recent Updates (top 10).</h3>
+                <h3 class="c-section-heading__header u-mb-10">Recent Updates (top 5).</h3>
                 <div style="width: 95%;margin-left: 1.6%; font-size:large" id="recentUpdates">
 
                 </div>
                 <a target="_blank" href="https://kashifinayat.github.io/me//recentupdates.html" style="float:right;cursor:pointer !important">View All (
                 <script>document.write(recentUpdates.updates.length)</script>)</a>
-
-
-
-
-
             </div>
         </div>
         <!-- EDUCATION -->
@@ -142,7 +136,7 @@
             </div>
         </div>
 		<!-- Professional Activities -->
-        <div id="section-teaching" class="o-container   wow1 fadeIn" data-contentPosition="5">
+        <div id="section-teaching" class="o-container   wow1 fadeIn" data-contentPosition="3">
             <div class="c-section-heading">
                 <svg class="c-section-heading__icon svg-icon" xmlns="http://www.w3.org/2000/svg" width="91" height="91" viewBox="0 0 91 91">
                     <rect class="svg-icon__border" x="0.5" y="0.5" width="90" height="90" />
@@ -154,31 +148,28 @@
                 <div class="o-screen-teaching__col">
                     <nav class="c-tabs  js-tabs">
 					
-					<!--  <div class="c-tabs__item">
+						<!-- <div class="c-tabs__item">
                             <input class="u-visuallyhidden" id="tab1" type="radio" name="tabs" checked>
                             <label class="c-tabs__header" for="tab1">Work Experience </label>
                             <div class="c-tabs__content" id="workExperinceDiv" style="text-align: justify;">
 
                             </div> 
-                        </div>-->
+                        </div> -->
                         <div class="c-tabs__item">
-                            <input class="u-visuallyhidden" id="tab1" type="radio" name="tabs" checked>
-                            <label class="c-tabs__header" for="tab1">Honors & Awards</label>
+                            <input class="u-visuallyhidden" id="tab2" type="radio" name="tabs" checked>
+                            <label class="c-tabs__header" for="tab2">Honors & Awards</label>
                             <div class="c-tabs__content" id="honorsawardDiv" style="text-align: justify;">
 
                             </div>
                         </div>
-						
-						
-						
-						
-                                
+		         
                     </nav>
+					
                 </div>
             </div>
         </div>
         <!-- RESEARCH -->
-        <div id="section-research" class="o-container   wow1 fadeIn" data-contentPosition="3">
+        <div id="section-research" class="o-container   wow1 fadeIn" data-contentPosition="4">
             <div class="c-section-heading">
                 <svg class="c-section-heading__icon svg-icon" xmlns="http://www.w3.org/2000/svg" width="91" height="91" viewBox="0 0 91 91">
                     <rect class="svg-icon__border" x="0.5" y="0.5" width="90" height="90" />
@@ -229,7 +220,7 @@
                        
                         <div class="p-ptabs__item">
                             <input class="u-visuallyhidden" id="ptabjournal" type="radio" name="ptabs" checked>
-                            <label class="p-ptabs__header" for="ptabjournal">Journals  (<script>document.write(publications.journals.length)</script>) </label>
+                            <label class="p-ptabs__header" for="ptabjournal" style="font-family: 'Lora', sans-serif; font-size: 25px; font-weight:bold; margin-bottom: 2%;float: left;">Journal Papers - SCI/SCIE  (<script>document.write(publications.journals.length)</script>) </label>
                             <div class="p-ptabs__content" id="journalDiv" style="text-align: justify;">
 
                             </div>
@@ -243,7 +234,7 @@
                         </div> -->
                         <div class="p-ptabs__item">
                             <input class="u-visuallyhidden" id="ptabjournal-nosci" type="radio" name="ptabs">
-                            <label class="p-ptabs__header" for="ptabjournal-nosci">Journal NonSCI (<script>document.write(publications.journalsdomestic.length)</script>)</label>
+                            <label class="p-ptabs__header" for="ptabjournal-nosci " style="font-family: 'Lora', sans-serif; font-size: 25px; font-weight:bold; margin-bottom: 2%;float: left;">Journal Papers - Non-SCI (<script>document.write(publications.journalsdomestic.length)</script>)</label>
                             <div class="p-ptabs__content" id="journalnonsciDiv" style="text-align: justify;">
 
                             </div>
@@ -251,7 +242,7 @@
 
                         <div class="p-ptabs__item">
                             <input class="u-visuallyhidden" id="ptabconference" type="radio" name="ptabs">
-                            <label class="p-ptabs__header" for="ptabconference">Conferences (<script>document.write(publications.conferences.length)</script>)</label>
+                            <label class="p-ptabs__header" for="ptabconference" style="font-family: 'Lora', sans-serif; font-size: 25px; font-weight:bold; margin-bottom: 2%;float: left;">Conferences (<script>document.write(publications.conferences.length)</script>)</label>
                             <div class="p-ptabs__content" id="conferenceiDiv" style="text-align: justify;">
 
                             </div>
@@ -297,7 +288,7 @@
                     <script>document.write(contacts.contact.skype)</script></a>
 					<meta name="viewport" content="width=device-width, initial-scale=1">
 					<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-                    <a class="c-screen-contact__item" href="tel:+82-10-97917471"><i class="fa fa-mobile-phone" style="font-size:24px"></i>
+                    <a class="c-screen-contact__item" href="tel:+82-10-74158169"><i class="fa fa-mobile-phone" style="font-size:24px"></i>
                     <script>document.write(contacts.contact.mobile)</script></a>
 
                     <ul class="c-screen-contact__address">
@@ -319,7 +310,7 @@
        
         <div class="c-main-footer__top o-container js-main-footer-top"></div>
         <div class="c-main-footer__bottom js-main-footer-bottom">
-            <p class="c-main-footer__text">Kasif Inayat. Copyright 2021.</p>
+            <p class="c-main-footer__text">Kasif Inayat. Copyright 2018.</p>
         </div>
     </footer>
 
