@@ -138,7 +138,7 @@ var recentUpdates = {
 		
         {
             "date": "September  16, 2016",
-            "text": 'Global Scholarship Awarded by Hongik University,South Korea for Doctorate Degree.',
+            "text": 'Global Scholarship Awarded by Hongik University, South Korea for Master of Science Degree.',
             "link": "",
         }
 
@@ -555,7 +555,7 @@ function recentUpdateRendeing() {
             displayRecentUpdates(recentUpdates.updates, "recentUpdates");
         }
         else {
-            displayRecentUpdates(recentUpdates.updates.slice(0, 10), "recentUpdates");
+            displayRecentUpdates(recentUpdates.updates.slice(0, 5), "recentUpdates");
         }
 
     }
