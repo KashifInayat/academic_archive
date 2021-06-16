@@ -3,7 +3,7 @@ var webBaseURL = "https://kashifinayat.github.io/me/";
 var webURL = "https://kashifinayat.github.io/me/index.html";
 
 //var webBaseURL = "file:///C:/Users/Engr.%20Kashif/Desktop/website/tmp/web-app/";
- //var webURL = "file:///C:/Users/Engr.%20Kashif/Desktop/website/tmp/web-app/index.html";
+//var webURL = "file:///C:/Users/Engr.%20Kashif/Desktop/website/tmp/web-app/index.html";
 
 var about = {
    "name": "Kashif Inayat",
@@ -101,12 +101,121 @@ var recentUpdates = {
             "link": "",
         },
 		
+		
+		{
+            "date": "February 22, 2019",
+            "text": 'Graduated with Master of Science in Electronics and Computer Engineering from Electronics and Computer Engineering Graduate School at Hongik University South Korea.',
+            "link": "",
+        },
+		
+		{
+            "date": "December 24, 2018",
+            "text": 'Paper entitled “Load balancing in decentralized smart grid trade system using blockchain", has been accepted for publication in Journal of Intelligent & Fuzzy Systems. (Impact Factor= 1.851)',
+            "link": "https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs169832",
+        },
+		
+		{
+            "date": "November 12, 2018",
+            "text": 'Defended succuessfully Master of Science in Electronics and Computer Engineering thesis defense at Hongik University, South Korea. Thanks to thesis committee: Prof. Seong Oun Hwang, Prof. Byung Seo Kim and Prof. Beongku An.',
+            "link": "",
+        },
+		
+		
+		
+		{
+            "date": "December 24, 2018",
+            "text": 'Paper entitled “Load balancing in decentralized smart grid trade system using blockchain", has been published in Journal of Intelligent & Fuzzy Systems. (Impact Factor= 1.851)',
+            "link": "https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs169832",
+        },
+		
+		{
+            "date": "March 24, 2018",
+            "text": 'Paper entitled “Load balancing in decentralized smart grid trade system using blockchain", has been accepted for publication in Journal of Intelligent & Fuzzy Systems. (Impact Factor= 1.851)',
+            "link": "https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs169832",
+        },
+		
+		
+		
         {
             "date": "September  16, 2016",
             "text": 'Global Scholarship Awarded by Hongik University,South Korea for Doctorate Degree.',
             "link": "",
         }
 
+    ]
+}
+
+var workExperience = {
+    "experience": [
+         {
+            "title": "Doctorate Fellow Researcehrs at System on Chips Lab, INU, South Korea",
+            "detail": 'I specificaly working on neuromorphic systems (more specifically Systolic Arrays, and Accelerators), computationally efficient and low power ASICs hardware designs for artificial intelligence (AI) in collaboration with Samsung Electronics. ',
+            "link": "https://sites.google.com/site/robustsystemslab2/members",
+            "date": "September, 2019 - Current",
+        },
+        {
+            "title": "Graduate Researcher at Research and Development Institute INU, South Korea",
+            "detail": 'I worked on Systolic Arrays, Multipliers (Radix-4, Radix-8), Adder (CSA, CPA etc) and their data flows and applied these concepts to tensor processing core, further details given under projects.',
+            "link": "https://sites.google.com/site/robustsystemslab2/members",
+            "date": "May, 2019 - August, 2019",
+        },
+		
+		 {
+            "title": "Registered Researcher SamsungFTF, South Korea",
+            "detail": 'During Ph.D., I worked on projects under Samsung Research Funding and Incubation Center for Future Technolgy (SamsungFTF) to explore the tensor processing cores and machine learning accelerators (especifically UC Berkeley accelerator Gemmini). Work on tensor processing published at DAC 2020 and work on Gemmini accelerator published at MDPI Electronics.',
+            "link": "https://sites.google.com/site/robustsystemslab2/members",
+            "date": "May, 2019 - August, 2019",
+        },
+		
+		 {
+            "title": "Graduate Researher at ISML Lab, Hongik University, South Korea",
+            "detail": ' During M.S., at Information Secuity and Machine Learning Lab, I worked on blockchain, asymmetric and code-based cryptography and their applications in IoT’s.',
+            "link": "https://ai-security.github.io/",
+            "date": "May, 2019 - August, 2019",
+        },
+		{
+            "title": "Lab Engineer at Digital System Design Lab, Iqra University, Pakistan",
+            "detail": ' Here, my responsibility was to conduct the labs of the following courses of undergrad students Computer Architecture [Spring/Fall 2015], Digital Logic Design [Spring/Fall 2016]. However, in the beginning, I also conducted Industrial Electronics course lab [Fall 2014]. Furthermore, I was involved in multiple undergrad projects, detail given in projects section.',
+            "link": "https://iuisl.iqra.edu.pk/",
+            "date": "May, 2019 - August, 2019",
+        },
+		
+		{
+            "title": "Intern at Renzym Private Limited",
+            "detail": ' Here, my responsibility was to conduct the labs of the following courses of undergrad students Computer Architecture [Spring/Fall 2015], Digital Logic Design [Spring/Fall 2016]. However, in the beginning, I also conducted Industrial Electronics course lab [Fall 2014]. Furthermore, I was involved in multiple undergrad projects, detail given in projects section.',
+            "link": "http://www.renzym.com/",
+            "date": "May, 2019 - August, 2019",
+        }
+		
+		
+        
+    ]
+}
+
+var honorsAwards = {
+    "honors": [
+	
+		{
+            "title": "Full Scholarship (Approx. $50,000)",
+            "detail": 'Awarded by Incehon National University, South Korea, for Ph.D Degree in Electronics Engineering. (September, 2019 - Feb, 20).',
+            "link": "",
+            "comments": "",
+        },
+       {
+            "title": "Global Scholarship (Approx. $11,000/year)",
+            "detail": 'Awarded by Hongik University, South Korea, for M.S Degree in Electronics and Computer Engineering. (March, 2017 - Feb, 2019).',
+            "link": "",
+            "comments": "",
+        },
+        
+		 {
+            "title": "Undergrad Merit Scholarship (Approx. $600/semester)",
+            "detail": 'Awarded by Iqra University, Islamabad Campus, Pakistan for B.E Degree in Electronics Engineering. (September, 2010 - Ausgust, 2014).',
+            "link": "",
+            "comments": "",
+        }
+		
+      
     ]
 }
 
@@ -193,7 +302,7 @@ var publications = {
             "publicationVenueInformation": "ISSN: 2079-9292",
             "publicationDownloadText": "View",
             "publicationDownloadLink": "https://www.mdpi.com/2079-9292/10/6/652/htm",
-            "publicationImpactFactor": "2.42",
+            "publicationImpactFactor": "2.412)",
             "comment": "",
             "commentLink": "",
             "isAccepted": "true"
@@ -207,7 +316,7 @@ var publications = {
             "publicationVenueInformation": "ISSN: 1064-1246",
             "publicationDownloadText": "View",
             "publicationDownloadLink": "https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs169832",
-            "publicationImpactFactor": "1.81",
+            "publicationImpactFactor": "1.851)",
             "comment": "",
             "commentLink": "",
             "isAccepted": "true"
@@ -222,7 +331,7 @@ var publications = {
             "publicationVenue": "International Journal of Internet Technology and Secured Transactions",
             "publicationVenueInformation": "ISSN: 1748-5703",
             "publicationDownloadText": "View",
-            "publicationDownloadLink": "https://arxiv.org/abs/2006.07345",
+            "publicationDownloadLink": "https://www.inderscience.com/info/ingeneral/forthcoming.php?jcode=ijitst#99876",
             "publicationImpactFactor": "",
             "comment": "",
             "commentLink": "",
@@ -323,80 +432,6 @@ var publications = {
 
 }
 
-var workExperience = {
-    "experience": [
-         {
-            "title": "Doctorate Fellow Researcehrs at System on Chips Lab, INU, South Korea",
-            "detail": 'I specificaly working on neuromorphic systems (more specifically Systolic Arrays, and Accelerators), computationally efficient and low power ASICs hardware designs for artificial intelligence (AI) in collaboration with Samsung Electronics. ',
-            "link": "https://sites.google.com/site/robustsystemslab2/members",
-            "date": "September, 2019 - Current",
-        },
-        {
-            "title": "Graduate Researcher at Research and Development Institute INU, South Korea",
-            "detail": 'I worked on Systolic Arrays, Multipliers (Radix-4, Radix-8), Adder (CSA, CPA etc) and their data flows and applied these concepts to tensor processing core, further details given under projects.',
-            "link": "https://sites.google.com/site/robustsystemslab2/members",
-            "date": "May, 2019 - August, 2019",
-        },
-		
-		 {
-            "title": "Registered Researcher SamsungFTF, South Korea",
-            "detail": 'During Ph.D., I worked on projects under Samsung Research Funding and Incubation Center for Future Technolgy (SamsungFTF) to explore the tensor processing cores and machine learning accelerators (especifically UC Berkeley accelerator Gemmini). Work on tensor processing published at DAC 2020 and work on Gemmini accelerator published at MDPI Electronics.',
-            "link": "https://sites.google.com/site/robustsystemslab2/members",
-            "date": "May, 2019 - August, 2019",
-        },
-		
-		 {
-            "title": "Graduate Researher at ISML Lab, Hongik University, South Korea",
-            "detail": ' During M.S., at Information Secuity and Machine Learning Lab, I worked on blockchain, asymmetric and code-based cryptography and their applications in IoT’s.',
-            "link": "https://ai-security.github.io/",
-            "date": "May, 2019 - August, 2019",
-        },
-		{
-            "title": "Lab Engineer at Digital System Design Lab, Iqra University, Pakistan",
-            "detail": ' Here, my responsibility was to conduct the labs of the following courses of undergrad students Computer Architecture [Spring/Fall 2015], Digital Logic Design [Spring/Fall 2016]. However, in the beginning, I also conducted Industrial Electronics course lab [Fall 2014]. Furthermore, I was involved in multiple undergrad projects, detail given in projects section.',
-            "link": "https://iuisl.iqra.edu.pk/",
-            "date": "May, 2019 - August, 2019",
-        },
-		
-		{
-            "title": "Intern at Renzym Private Limited",
-            "detail": ' Here, my responsibility was to conduct the labs of the following courses of undergrad students Computer Architecture [Spring/Fall 2015], Digital Logic Design [Spring/Fall 2016]. However, in the beginning, I also conducted Industrial Electronics course lab [Fall 2014]. Furthermore, I was involved in multiple undergrad projects, detail given in projects section.',
-            "link": "http://www.renzym.com/",
-            "date": "May, 2019 - August, 2019",
-        }
-		
-		
-        
-    ]
-}
-
-var honorsAwards = {
-    "honors": [
-	
-		{
-            "title": "Full Scholarship (Approx. $50,000)",
-            "detail": 'Awarded by Incehon National University, South Korea, for Ph.D Degree in Electronics Engineering. (September, 2019 - Feb, 20).',
-            "link": "",
-            "comments": "",
-        },
-       {
-            "title": "Global Scholarship (Approx. $11,000/year)",
-            "detail": 'Awarded by Hongik University, South Korea, for M.S Degree in Electronics and Computer Engineering. (March, 2017 - Feb, 2019).',
-            "link": "",
-            "comments": "",
-        },
-        
-		 {
-            "title": "Undergrad Merit Scholarship (Approx. $600/semester)",
-            "detail": 'Awarded by Iqra University, Islamabad Campus, Pakistan for B.E Degree in Electronics Engineering. (September, 2010 - Ausgust, 2014).',
-            "link": "",
-            "comments": "",
-        }
-		
-      
-    ]
-}
-
 
 var educationList = {
     "educationList": [
@@ -467,11 +502,12 @@ $(document).ready(function () {
     }
     else {
         aboutRendering();
+		professionalServicesRendering();
         researchRendering();
         recentUpdateRendeing();
         publicationRenderingOnIndex();
-        professionalServicesRendering();
-        hobbiesRendering();
+      
+     
     }
 
 });
@@ -493,21 +529,6 @@ function researchRendering() {
         }
     });
     document.getElementById("researchDiv").innerHTML = myList;
-}
-function hobbiesRendering() {
-    debugger
-    var myList = '';
-    hobbiesList.hobbies.forEach(function (hobby) {
-
-        var hobbyList = '';
-        hobby.list.forEach(function (item) {
-            hobbyList += '<a class="c-card__link" href="#">' + item + '</a>';
-        });
-
-        myList += ' <div class="c-card__item js-toggle-modal"><div class="c-card__sizer"></div><div class="c-card__inner"><div class="c-card__icon"><i class="icofont icofont-molecule"></i> </div> <h4 class="c-card__header">' + hobby.name + '</h4><div class="c-card__content js-card-content"> <p class="c-card__text"></p> </div><div class="c-card__modal-content js-card-modal-content"><p class="c-card__text">' + hobby.title + '</p> ' + hobbyList + '</div></div> <div class="c-card__button">   <button class="c-card__button-field" type="button"></button></div></div>';
-    });
-    debugger
-    document.getElementById("hobbiesDiv").innerHTML = myList;
 }
 function aboutRendering() {
     document.getElementById("adboutName").innerText = about.name;
@@ -658,7 +679,7 @@ function displayPapers(paperCollection, divId, paperCount) {
 
             }
             if (paper.publicationImpactFactor) {
-                impactFactorText = ', <b>Impact Factor: ' + paper.publicationImpactFactor + '   </b>';
+                impactFactorText = ', <b>(Impact Factor: ' + paper.publicationImpactFactor + '   </b>';
             }
             if (paper.comment) {
                 commentText = ', <a target="_blank" href="' + paper.commentLink + '"> ' + paper.comment + ' </a>';
