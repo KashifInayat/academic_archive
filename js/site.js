@@ -91,7 +91,7 @@ var recentUpdates = {
 
         {
             "date": "July, 2023",
-            "text": 'Joind ACM as Professional Member, feel free to write me here:',
+            "text": 'Joind ACM as a Professional Member.',
             "link": "https://tinyurl.com/acm-ki2023",
         },
 
