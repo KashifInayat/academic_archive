@@ -315,8 +315,6 @@ var recentUpdates = {
 
 var chipsopp = {
      "chips": [
-	 
-        KAUST Microelectronics Winter Camp
         
 	 {
         "date": "July 6, 2021",
