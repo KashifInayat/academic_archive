@@ -90,7 +90,7 @@ var recentUpdates = {
      "updates": [
 
         {
-            "date": "May, 2023",
+            "date": "July, 2023",
             "text": 'Joind ACM as Professional Member, feel free to write me here:',
             "link": "https://tinyurl.com/acm-ki2023",
         },
