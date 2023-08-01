@@ -89,11 +89,10 @@ var about = {
 var recentUpdates = {
      "updates": [
 
-
         {
             "date": "May, 2023",
             "text": 'Joind ACM as Professional Member, feel free to write me here:',
-            "link": "kashifinayat@acm.org",
+            "link": "https://tinyurl.com/acm-ki2023",
         },
 
         {
