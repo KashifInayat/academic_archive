@@ -1628,11 +1628,11 @@ var conferencesLinks = {
 var contacts = {
     "contact":
     {
-        "email": "kashif.inayat [at] inu.ac.kr",
-        "skype": "kashif_chaudhary [at] yahoo.com ",
-        "mobile": "+82-10-97917471",
-        "lab": "Room 561, System on Chips (SoC) Lab, Building 8B ",
-        "department": "Department of Electronics Engineering, Incehon National University, South Korea",
+        "email": "kashifinayat [at] acm.org",
+        "skype": "engrkashifinayat [at] outlook.com ",
+        "mobile": "+34607147086",
+        "lab": "Tillers Building, 2nd Floor, Barcelona Supercomputing Center",
+        "department": "Plaça Eusebi Güell, 1-3 08034 Barcelona (Spain)",
         
     }
 }
