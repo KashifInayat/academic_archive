@@ -89,6 +89,13 @@ var about = {
 var recentUpdates = {
      "updates": [
 
+
+        {
+            "date": "May, 2023",
+            "text": 'Joind ACM as Professional Member, feel free to write me here:',
+            "link": "kashifinayat@acm.org",
+        },
+
         {
             "date": "May, 2023",
             "text": 'Our new work entitled, "CSA Based Radix-4 Gemmini Systolic Array for Machine Learning Applications", has been accepted at International Symposium on Highly Efficient Accelerators and Reconfigurable Technology, 2023.',
@@ -111,9 +118,16 @@ var recentUpdates = {
 
        
         {
-            "date": "Apr 15, 2023",
+            "date": "Apr 22, 2023",
             "text": 'Paper entitled "Power-Intent Systolic Array using Modified Parallel Multiplier for Machine Learning Acceleration", has been accepted at MDPI Sensors. (Impact Factor= 3.847).',
             "link": "https://www.mdpi.com/1424-8220/23/9/4297",
+        },
+
+
+        {
+            "date": "Mar 1st, 2023",
+            "text": 'Joined Barcelona Supercomputing Center as a Senior Research Engineer (RE-3) in Computer Sciences-European Exascale Accelerator (EEA) Group',
+            "link": "https://www.bsc.es/inayat-kashif",
         },
 
  {
@@ -303,6 +317,27 @@ var recentUpdates = {
 var chipsopp = {
      "chips": [
 	 
+        KAUST Microelectronics Winter Camp
+        
+	 {
+        "date": "July 6, 2021",
+        "text": 'Note: IC Design Tools and Hacks',
+        "link": "https://tinyurl.com/toolssetup-all",
+    },
+    
+    {
+        "date": "July 6, 2021",
+        "text": 'KAUST Microelectronics Fully Funded 6-week Winter Camp',
+        "link": "https://cemse.kaust.edu.sa/microelectronicscamp",
+    },
+
+    {
+        "date": "July 6, 2021",
+        "text": 'Postdoc in the area of RISC-V',
+        "link": "https://wallento.cs.hm.edu/job-postdoc-scale4edge/",
+    },
+    
+
 	 {
             "date": "July 6, 2021",
             "text": 'IEEE Solid-State Circuits Society 2022 Session online video reocordings.',
