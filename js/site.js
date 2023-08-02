@@ -805,7 +805,7 @@ var workExperience = {
     "experiences": [
 
         {
-            "title": "Senior Research Engineer (RE-3) at Barcelona Supercomputing Center, Barcelona, Spain",
+            "title": "Senior Research Engineer (RE-3) at Barcelona Supercomputing Center, Spain",
             "detail": 'I am working in the RTL design team at Computer Sciences-European Exascale Accelerator (EEA) group, developing hardware IPs. Currently, working on tapeout based project known as PERTE, in it I specifically involved in designing 10 stages pipelined RISC-V (Out of order) core known as ”Lagarto OX.”',
             "link": "https://www.bsc.es/inayat-kashif",
             "text": "[Details]",
