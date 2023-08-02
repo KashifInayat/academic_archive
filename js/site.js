@@ -1716,7 +1716,7 @@ function recentUpdateRendeing() {
             displayRecentUpdates(recentUpdates.updates, "recentUpdates");
         }
         else {
-            displayRecentUpdates(recentUpdates.updates.slice(0, 5), "recentUpdates");
+            displayRecentUpdates(recentUpdates.updates.slice(0, 10), "recentUpdates");
         }
 
     }
