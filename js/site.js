@@ -736,7 +736,7 @@ var publications = {
             "publicationTitle": "Quickloop: An efficient, FPGA-accelerated exploration of parameterized DNN accelerators",
             "publicationVenue": "Parallel Architectures and Compilation Techniques (PACT),  April, 2023",
             "publicationVenueInformation": "Austria",
-            "publicationDownloadText": "[Under Review]",
+            "publicationDownloadText": "[View]",
             "publicationDownloadLink": "https://pact2023.github.io/",
             "publicationImpactFactor": "",
             "comment": "",
