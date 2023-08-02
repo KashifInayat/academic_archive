@@ -639,9 +639,6 @@ var publications = {
  //      Conferences       //
 ////////////////////////////	
     "conferences": [
-
-
-
 	 {
             "authors": [ "Sadaf Abbasi", "Usman Hashmi", "Muntazir Hussain", "Dawood Khan","Fahad Bin Muslim", "Kashif Inayat"],
             "authorMePosition": "6",
@@ -763,7 +760,7 @@ var publications = {
 
         }
 
-        ]
+        ],
 
 
 
