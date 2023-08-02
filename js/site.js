@@ -77,8 +77,8 @@ var about = {
     ],
     "aboutText": [
         {
-            "text1": "Kashif Inayat recently completed his Doctrate's degree in Electronic Engineering from the System-on-Chips (SoC) Laboratory of Incheon National University (INU), South Korea. It is a great privilege for him to work under Prof. Jaeyong Chung at INU. Earlier in 2019, he completed a Master's degree in Electronics and Computer Engineering at Hongik University under the guidance of Prof. Seong Oun Hwang.",
-			"text2": "He graduated from Iqra University Islamabad Campus, Pakistan in 2014 with a Bachelor's degree in Electronic Engineering under the supervision of Prof. Viqar Ahmed. During undergrad, he worked with FPGA Design Team at Renzym Private Limited during the summers of 2013. Upon completing his undergraduate degree, he worked at Computing and Science Department, Iqra University as a lab engineer for almost 3 years.",
+            "text1": "Kashif Inayat working as Senior Research Engineer (Design and Verification ) at Barcelona Supercomputing Center in Computer Sciences - European Exascale Accelerator group. He completed his Doctrate's degree in Electronic Engineering from the System-on-Chips (SoC) Laboratory of Incheon National University (INU), South Korea in January, 2023. It is a great privilege for him to work under Prof. Jaeyong Chung at INU. Earlier in 2019, he completed a Master's degree in Electronics and Computer Engineering at Hongik University under the guidance of Prof. Seong Oun Hwang.",
+			"text2": "He graduated from Iqra University Islamabad Campus, Pakistan in September, 2014 with a Bachelor's degree in Electronic Engineering under the supervision of Prof. Viqar Ahmed. During undergrad, he worked with FPGA Design Team at Renzym Private Limited during the summers of 2013. Upon completing his undergraduate degree, he worked at Computing and Science Department, Iqra University as a lab engineer for almost 3 years.",
             "text3": "Moreover, during MS studies he worked at Information Security and Machine Learning Lab, Hongik University, South Korea as a graduate researcher for 2.5 years. Furthermore, he chaired the special sessions at International Conference on Green and Human Information Technology (ICGHIT 2019), held at Kuala Lumpur, Malaysia (Jan, 16-18, 2019). He served as artifact/articles evaluator/reviewer  of  IEEE/ACM International Symposium on Microarchitecture (MICRO'21 and MICRO'22), IEEE International Conference on Electronics Circuits and Systems (ICECS'21 and ICECS'22), IEEE International Symposium on Circuits and Systems (ISCAS'23), IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems and IEEE Access Journal. He is also member of Open-Source FPGA (OSFPGA) Education and Training Committee. Lastly, he is a registered member of the Pakistan Engineering Council and Technical Education Lahore (Tevta), Pakistan. "
         }
     ]
@@ -88,6 +88,14 @@ var about = {
 ////////////////////////////
 var recentUpdates = {
      "updates": [
+
+ {
+            "date": "Aug, 2023",
+            "text": 'Our new work entitled, " Quickloop: An efficient, FPGA-accelerated exploration of parameterized DNN accelerators", has been acceptd at Parallel Architectures and Compilation Techniques (PACT), 2023.',
+            "link": "https://pact2023.github.io/",
+        },
+
+
 
         {
             "date": "July, 2023",
@@ -632,35 +640,7 @@ var publications = {
 ////////////////////////////	
     "conferences": [
 
- {
-            "authors": [ "Tayyeb Mahmood",  "Kashif Inayat",  "Jaeyong Chung"],
-            "authorMePosition": "3",
-            "publicationTitle": "Quickloop: An efficient, FPGA-accelerated exploration of parameterized DNN accelerators",
-            "publicationVenue": "Parallel Architectures and Compilation Techniques (PACT),  April, 2023",
-            "publicationVenueInformation": "Austria",
-            "publicationDownloadText": "[Under Review]",
-            "publicationDownloadLink": "https://pact2023.github.io/",
-            "publicationImpactFactor": "",
-            "comment": "",
-            "commentLink": "",
-            "isAccepted": "true"
 
-        },
-
-	 {
-            "authors": [ "Muhammad Akmal Shafique", "Kashif Inayat", "Jeong A. Lee"],
-            "authorMePosition": "2",
-            "publicationTitle": "CSA Based Radix-4 Gemmini Systolic Array for Machine Learning Applications",
-            "publicationVenue": "International Symposium on Highly Efficient Accelerators and Reconfigurable Technology,  2023",
-            "publicationVenueInformation": "Japan",
-            "publicationDownloadText": "[View]",
-            "publicationDownloadLink": "https://heart2023.lila.cs.tsukuba.ac.jp/",
-            "publicationImpactFactor": "",
-            "comment": "",
-            "commentLink": "",
-            "isAccepted": "true"
-
-        },
 
 	 {
             "authors": [ "Sadaf Abbasi", "Usman Hashmi", "Muntazir Hussain", "Dawood Khan","Fahad Bin Muslim", "Kashif Inayat"],
@@ -751,7 +731,42 @@ var publications = {
         }
 
     ],
-	
+
+	"posters": [	
+        {
+            "authors": [ "Tayyeb Mahmood",  "Kashif Inayat",  "Jaeyong Chung"],
+            "authorMePosition": "3",
+            "publicationTitle": "Quickloop: An efficient, FPGA-accelerated exploration of parameterized DNN accelerators",
+            "publicationVenue": "Parallel Architectures and Compilation Techniques (PACT),  April, 2023",
+            "publicationVenueInformation": "Austria",
+            "publicationDownloadText": "[Under Review]",
+            "publicationDownloadLink": "https://pact2023.github.io/",
+            "publicationImpactFactor": "",
+            "comment": "",
+            "commentLink": "",
+            "isAccepted": "true"
+
+        },
+
+	 {
+            "authors": [ "Muhammad Akmal Shafique", "Kashif Inayat", "Jeong A. Lee"],
+            "authorMePosition": "2",
+            "publicationTitle": "CSA Based Radix-4 Gemmini Systolic Array for Machine Learning Applications",
+            "publicationVenue": "International Symposium on Highly Efficient Accelerators and Reconfigurable Technology,  2023",
+            "publicationVenueInformation": "Japan",
+            "publicationDownloadText": "[View]",
+            "publicationDownloadLink": "https://heart2023.lila.cs.tsukuba.ac.jp/",
+            "publicationImpactFactor": "",
+            "comment": "",
+            "commentLink": "",
+            "isAccepted": "true"
+
+        }
+
+        ]
+
+
+
 	"otherspublications": [	
 {
             "authors": ["Naveed Sherwani", "Sajid Baloch", "Ahmed Shuja Syed", "Roomi Naqvi", "Rashad Ramzan", "Hammad M. Cheema", "Farhat Jahangir", "Syed Arsalan Jawed", "Muhammad Fahim Ul Haque", "Muhammad Yasir Qadri", "Saad Ahmed Qazi", "Ali Ahmed", "Ali Sana", "Aly Fahad", "Hashim Raza Khan", "Kashif Inayat"],
@@ -1887,7 +1902,7 @@ function publicationRendering() {
 		paperCount = displayPapers(publications.otherspublications, 'otherspublications-list', paperCount);
 		
         //paperCount = displayPapers(publications.demos, 'demos-list', paperCount);
-       // paperCount = displayPapers(publications.posters, 'posters-list', paperCount);
+       paperCount = displayPapers(publications.posters, 'posters-list', paperCount);
        // paperCount = displayPapers(publications.patents, 'patents-list', paperCount);
 
     }
@@ -1901,7 +1916,7 @@ function publicationRenderingOnIndex() {
         paperCount = displayPapers(publications.conferences, 'conferenceDiv', paperCount);
 		paperCount = displayPapers(publications.otherspublications, 'otherspublicationsDiv', paperCount);
         //paperCount = displayPapers(publications.demos, 'demoDiv', paperCount);
-        //paperCount = displayPapers(publications.posters, 'posterDiv', paperCount);
+        paperCount = displayPapers(publications.posters, 'posterDiv', paperCount);
 
 
  
@@ -1933,7 +1948,7 @@ function displayPapers(paperCollection, divId, paperCount) {
             }
             else {
                 if (paper.isAccepted == "true") {
-                    fileText = ' <a href="mailto:kashif_chaudhary@yahoo.com?subject=Full Text Request (Website): ' + paper.publicationTitle + '">Request PDF</a>';
+                    fileText = ' <a href="mailto:engrkashifinayat@outlook.com?subject=Full Text Request (Website): ' + paper.publicationTitle + '">Request PDF</a>';
                 }
                 else {
                     fileText = '<span style="color: blue; text-decoration:underline"">' + paper.publicationDownloadText + '</span>';
