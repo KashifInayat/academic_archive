@@ -1899,10 +1899,12 @@ function publicationRendering() {
         paperCount = displayPapers(publications.journals, 'journals-list', paperCount);
         paperCount = displayPapers(publications.journalsdomestic, 'journalsdomestic-list', paperCount);
         paperCount = displayPapers(publications.conferences, 'conferences-list', paperCount);
+        paperCount = displayPapers(publications.posters, 'posters-list', paperCount);
 		paperCount = displayPapers(publications.otherspublications, 'otherspublications-list', paperCount);
+       
 		
         //paperCount = displayPapers(publications.demos, 'demos-list', paperCount);
-       paperCount = displayPapers(publications.posters, 'posters-list', paperCount);
+      
        // paperCount = displayPapers(publications.patents, 'patents-list', paperCount);
 
     }
@@ -1914,10 +1916,10 @@ function publicationRenderingOnIndex() {
         //paperCount = displayPapers(publications.patents, 'patentDiv', paperCount);
         paperCount = displayPapers(publications.journalsdomestic, 'journalnonsciDiv', paperCount);
         paperCount = displayPapers(publications.conferences, 'conferenceDiv', paperCount);
+        paperCount = displayPapers(publications.posters, 'posterDiv', paperCount);
 		paperCount = displayPapers(publications.otherspublications, 'otherspublicationsDiv', paperCount);
         //paperCount = displayPapers(publications.demos, 'demoDiv', paperCount);
-        paperCount = displayPapers(publications.posters, 'posterDiv', paperCount);
-
+       
 
  
 }
