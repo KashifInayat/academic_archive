@@ -77,7 +77,7 @@ var about = {
     ],
     "aboutText": [
         {
-            "text1": "Kashif Inayat working as Senior Research Engineer (Design and Verification ) at Barcelona Supercomputing Center in Computer Sciences - European Exascale Accelerator group. He completed his Doctrate's degree in Electronic Engineering from the System-on-Chips (SoC) Laboratory of Incheon National University (INU), South Korea in January, 2023. It is a great privilege for him to work under Prof. Jaeyong Chung at INU. Earlier in 2019, he completed a Master's degree in Electronics and Computer Engineering at Hongik University under the guidance of Prof. Seong Oun Hwang.",
+            "text1": "Kashif Inayat working as Senior Research Engineer (Design and Verification ) at Barcelona Supercomputing Center in Computer Sciences - European Exascale Accelerator group. He completed his Doctrate's degree in Electronic Engineering from the System-on-Chips (SoC) Laboratory of Incheon National University (INU), South Korea in January, 2023. It was a great privilege for him to work under Prof. Jaeyong Chung at INU. Earlier in 2019, he completed a Master's degree in Electronics and Computer Engineering at Hongik University under the guidance of Prof. Seong Oun Hwang.",
 			"text2": "He graduated from Iqra University Islamabad Campus, Pakistan in September, 2014 with a Bachelor's degree in Electronic Engineering under the supervision of Prof. Viqar Ahmed. During undergrad, he worked with FPGA Design Team at Renzym Private Limited during the summers of 2013. Upon completing his undergraduate degree, he worked at Computing and Science Department, Iqra University as a lab engineer for almost 3 years.",
             "text3": "Moreover, during MS studies he worked at Information Security and Machine Learning Lab, Hongik University, South Korea as a graduate researcher for 2.5 years. Furthermore, he chaired the special sessions at International Conference on Green and Human Information Technology (ICGHIT 2019), held at Kuala Lumpur, Malaysia (Jan, 16-18, 2019). He served as artifact/articles evaluator/reviewer  of  IEEE/ACM International Symposium on Microarchitecture (MICRO'21 and MICRO'22), IEEE International Conference on Electronics Circuits and Systems (ICECS'21 and ICECS'22), IEEE International Symposium on Circuits and Systems (ISCAS'23), IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems and IEEE Access Journal. He is also member of Open-Source FPGA (OSFPGA) Education and Training Committee. Lastly, he is a registered member of the Pakistan Engineering Council and Technical Education Lahore (Tevta), Pakistan. "
         }
@@ -88,6 +88,15 @@ var about = {
 ////////////////////////////
 var recentUpdates = {
      "updates": [
+
+ {
+            "date": "Aug, 2023",
+            "text": 'Our new work entitled, "Factored Systolic Arrays based on Radix-8 Multiplication for Machine Learning Acceleration", has been accepted at IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2023. (Impact Factor= 2.775).',
+            "link": "https://kashifinayat.github.io",
+        },
+
+
+
 
  {
             "date": "Aug, 2023",
@@ -113,7 +122,7 @@ var recentUpdates = {
         {
             "date": "Apr, 2023",
             "text": 'Our new work entitled, "Factored Systolic Arrays based on Radix-8 Multiplication for Machine Learning Acceleration", has been submitted at IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2023. (Impact Factor= 2.775).',
-            "link": "https://kashifinayat.com",
+            "link": "https://kashifinayat.github.io",
         },
 
 
@@ -140,7 +149,7 @@ var recentUpdates = {
  {
             "date": "Feb 22, 2023",
             "text": 'Kashif Inayat has left System on Chips (SoC) Laboratory, INU on 22nd of February, 2023 right after completing his Ph.D in Electronics Engineering.',
-            "link": "https://kashifinayat.com",
+            "link": "https://kashifinayat.github.io",
         },
         
 
@@ -164,7 +173,7 @@ var recentUpdates = {
 	 {
             "date": "April 30, 2022",
             "text": 'Deliverd complete workshop on chip design front-end to Computing System Lab students at Chosun University South Korea, in which covered pre-verification, STA analysis, post-verification and power analysis through synopsys tools(VCS, DC, Prime Power) using SAED 32-28nm academic PDKs.',
-            "link": "https://kashifinayat.com",
+            "link": "https://kashifinayat.github.io",
         },
 	 {
             "date": "April, 2022",
@@ -517,7 +526,7 @@ var publications = {
             "authorMePosition": "1",
             "publicationTitle": "Factored Systolic Arrays based on Radix-8 Multiplication for Machine Learning Acceleration",
             "publicationVenue": "IEEE Transactions on Very Large Scale Integration (TVLSI) Systems",
-            "publicationVenueInformation": " (Under-review)",
+            "publicationVenueInformation": "August, 2023",
             "publicationDownloadText": "[View]",
             "publicationDownloadLink": "https://kashifinayat.github.io/#section-publications",
             "publicationImpactFactor": "2.775)",
@@ -531,7 +540,7 @@ var publications = {
             "authorMePosition": "1",
             "publicationTitle": "Power-Intent Systolic Array using Modified Parallel Multiplier for Machine Learning Acceleration",
             "publicationVenue": "MDPI Sensors",
-            "publicationVenueInformation": " (Accepted)",
+            "publicationVenueInformation": "April, 2023",
             "publicationDownloadText": "[View]",
             "publicationDownloadLink": "https://www.mdpi.com/1424-8220/23/9/4297",
             "publicationImpactFactor": "3.847)",
