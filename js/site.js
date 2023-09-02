@@ -91,7 +91,7 @@ var recentUpdates = {
 
  {
             "date": "Aug, 2023",
-            "text": 'Our new work entitled, "Factored Systolic Arrays based on Radix-8 Multiplication for Machine Learning Acceleration", has been accepted at IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2023. (Impact Factor= 2.775).',
+            "text": 'Our new work entitled, "Factored Systolic Arrays based on Radix-8 Multiplication for Machine Learning Acceleration", has been accepted at IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2023. (Impact Factor= 2.8).',
             "link": "https://kashifinayat.github.io",
         },
 
@@ -121,7 +121,7 @@ var recentUpdates = {
 
         {
             "date": "Apr, 2023",
-            "text": 'Our new work entitled, "Factored Systolic Arrays based on Radix-8 Multiplication for Machine Learning Acceleration", has been submitted at IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2023. (Impact Factor= 2.775).',
+            "text": 'Our new work entitled, "Factored Systolic Arrays based on Radix-8 Multiplication for Machine Learning Acceleration", has been submitted at IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2023. (Impact Factor= 2.8).',
             "link": "https://kashifinayat.github.io",
         },
 
@@ -177,7 +177,7 @@ var recentUpdates = {
         },
 	 {
             "date": "April, 2022",
-            "text": 'Paper entitled "Hybrid Accumulator Factored Systolic Array for Machine Learning Acceleration", has been accepted at IEEE Transactions on Very Large Scale Integration (VLSI) Systems. (Impact Factor= 2.775)".',
+            "text": 'Paper entitled "Hybrid Accumulator Factored Systolic Array for Machine Learning Acceleration", has been accepted at IEEE Transactions on Very Large Scale Integration (VLSI) Systems. (Impact Factor= 2.8)".',
             "link": "https://ieeexplore.ieee.org/document/9773321",
         },
 	 
@@ -208,7 +208,7 @@ var recentUpdates = {
 	 
 	   {
             "date": "November 18, 2021",
-            "text": 'Paper entitled “Hybrid Accumulator Factored Systolic Array  for Machine Learning Acceleration", has been submitted at IEEE Transactions on Very Large Scale Integration (VLSI) Systems. (Impact Factor= 2.775)',
+            "text": 'Paper entitled “Hybrid Accumulator Factored Systolic Array  for Machine Learning Acceleration", has been submitted at IEEE Transactions on Very Large Scale Integration (VLSI) Systems. (Impact Factor= 2.8)',
             "link": "",
         },
 		
@@ -529,7 +529,7 @@ var publications = {
             "publicationVenueInformation": "August, 2023",
             "publicationDownloadText": "[View]",
             "publicationDownloadLink": "https://kashifinayat.github.io/#section-publications",
-            "publicationImpactFactor": "2.775)",
+            "publicationImpactFactor": "2.8)",
             "comment": "",
             "commentLink": "",
             "isAccepted": "true"
@@ -561,7 +561,7 @@ var publications = {
             "publicationVenueInformation": "April, 2022",
             "publicationDownloadText": "[View]",
             "publicationDownloadLink": "https://ieeexplore.ieee.org/document/9773321",
-            "publicationImpactFactor": "2.775)",
+            "publicationImpactFactor": "2.8)",
             "comment": "",
             "commentLink": "",
             "isAccepted": "true"
