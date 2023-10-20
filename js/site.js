@@ -77,9 +77,9 @@ var about = {
     ],
     "aboutText": [
         {
-            "text1": "Kashif Inayat working as Senior Research Engineer (Design and Verification ) at Barcelona Supercomputing Center in Computer Sciences - European Exascale Accelerator group. He completed his Doctrate's degree in Electronic Engineering from the System-on-Chips (SoC) Laboratory of Incheon National University (INU), South Korea in January, 2023. It was a great privilege for him to work under Prof. Jaeyong Chung at INU. Earlier in 2019, he completed a Master's degree in Electronics and Computer Engineering at Hongik University under the guidance of Prof. Seong Oun Hwang.",
-			"text2": "He graduated from Iqra University Islamabad Campus, Pakistan in September, 2014 with a Bachelor's degree in Electronic Engineering under the supervision of Prof. Viqar Ahmed. During undergrad, he worked with FPGA Design Team at Renzym Private Limited during the summers of 2013. Upon completing his undergraduate degree, he worked at Computing and Science Department, Iqra University as a lab engineer for almost 3 years.",
-            "text3": "Moreover, during MS studies he worked at Information Security and Machine Learning Lab, Hongik University, South Korea as a graduate researcher for 2.5 years. Furthermore, he chaired the special sessions at International Conference on Green and Human Information Technology (ICGHIT 2019), held at Kuala Lumpur, Malaysia (Jan, 16-18, 2019). He served as artifact/articles evaluator/reviewer  of  IEEE/ACM International Symposium on Microarchitecture (MICRO'21 and MICRO'22), IEEE International Conference on Electronics Circuits and Systems (ICECS'21 and ICECS'22), IEEE International Symposium on Circuits and Systems (ISCAS'23), IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems and IEEE Access Journal. He is also member of Open-Source FPGA (OSFPGA) Education and Training Committee. Lastly, he is a registered member of the Pakistan Engineering Council and Technical Education Lahore (Tevta), Pakistan. "
+            "text1": "I am working as Senior Research Engineer (Design and Verification ) at Barcelona Supercomputing Center in Computer Sciences - European Exascale Accelerator group. I completed Doctrate's degree in Electronic Engineering from the System-on-Chips (SoC) Laboratory of Incheon National University (INU), South Korea in January, 2023. It was a great privilege for him to work under Prof. Jaeyong Chung at INU. Earlier in 2019, I completed a Master's degree in Electronics and Computer Engineering at Hongik University under the guidance of Prof. Seong Oun Hwang.",
+			"text2": "I graduated from Iqra University Islamabad Campus, Pakistan in September, 2014 with a Bachelor's degree in Electronic Engineering under the supervision of Prof. Viqar Ahmed. During undergrad, I worked with FPGA Design Team at Renzym Private Limited during the summers of 2013. Upon completing my undergraduate degree, I worked at Computing and Science Department, Iqra University as a lab engineer for almost 3 years.",
+            "text3": "Furthermore, I chaired the special sessions at ICGHIT 2019. I also served as artifact/articles evaluator/reviewer  of  IEEE/ACM (MICRO'21 and MICRO'22), IEEE (ICECS'21 and ICECS'22), IEEE (ISCAS'23), IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems and IEEE Access Journal. I am also member of Open-Source FPGA (OSFPGA) Education and Training Committee. Lastly, I am a registered member of the Pakistan Engineering Council and Technical Education Lahore (Tevta), Pakistan. My current research interest includes: CPUs and its extension with neuromorphic systems, specifically along with systolic arrays, TPUs, accelerators and VPUs "
         }
     ]
 }
@@ -148,7 +148,7 @@ var recentUpdates = {
 
  {
             "date": "Feb 22, 2023",
-            "text": 'Kashif Inayat has left System on Chips (SoC) Laboratory, INU on 22nd of February, 2023 right after completing his Ph.D in Electronics Engineering.',
+            "text": 'I left System on Chips (SoC) Laboratory, INU on 22nd of February, 2023 right after completing the Ph.D in Electronics Engineering.',
             "link": "https://kashifinayat.github.io",
         },
         
@@ -445,7 +445,7 @@ var educationList = {
 var researchInterest = {
     "interests": [
         {
-            "name": "Neuromorphics Computing, Tensor Processing and Accelerators",
+            "name": "CPUs, GPUs and Computer Architecture",
             "text": 'Check my publications',
             "links": [
                 {
@@ -456,7 +456,7 @@ var researchInterest = {
             "isTagLine": "false"
         },
         {
-            "name": "Computer Arithmetic, Redundant Arithmetic and Floating Point Arithmetic",
+            "name": "Neuromorphics Computing, Tensor Processing and Accelerators",
             "text": 'Check my publications',
             "links": [
                 {
@@ -467,7 +467,7 @@ var researchInterest = {
             "isTagLine": "false"
         },
         {
-            "name": "Parallel Computing, Systolic Arrays, Computer Arhitecture and Embedded Systems",
+            "name": "Integer, Redundant, Online, Posit and Floating Point",
             "text": 'Check my publications',
             "links": [
                 {
