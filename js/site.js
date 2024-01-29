@@ -21,7 +21,7 @@ var webURL = "https://kashifinayat.github.io/index.html";
 
 var about = {
    "name": "Kashif Inayat",
-    "heading": "SENIOR RESEARCH ENGINEER",
+    "heading": "SENIOR DESIGN AND VERIFICATION ENGINEER",
     "profles": [
 	
 		{
@@ -77,9 +77,9 @@ var about = {
     ],
     "aboutText": [
         {
-            "text1": "I am working as a Senior Research Engineer (Design and Verification) at Barcelona Supercomputing Center in Computer Sciences - European Exascale Accelerator group. I completed Doctrate's degree in Electronic Engineering from the System-on-Chips (SoC) Laboratory of Incheon National University (INU), South Korea in January, 2023. It was a great privilege for me to work under Prof. Jaeyong Chung at INU. Earlier in 2019, I completed a Master's degree in Electronics and Computer Engineering at Hongik University under the guidance of Prof. Seong Oun Hwang.",
+            "text1": "I am working as a Senior Design and Verification (RE-3) at Barcelona Supercomputing Center in Computer Sciences-Microarchitecture Design and Implementation group. I completed Doctrate's degree in Electronic Engineering from the System-on-Chips (SoC) Laboratory of Incheon National University (INU), South Korea in January, 2023. It was a great privilege for me to work under Prof. Jaeyong Chung at INU. Earlier in 2019, I completed a Master's degree in Electronics and Computer Engineering at Hongik University under the guidance of Prof. Seong Oun Hwang.",
 			"text2": "I graduated from Iqra University Islamabad Campus, Pakistan in September, 2014 with a Bachelor's degree in Electronic Engineering under the supervision of Prof. Viqar Ahmed. During undergrad, I worked with FPGA Design Team at Renzym Private Limited during the summers of 2013. Upon completing my undergraduate degree, I worked at Computing and Science Department, Iqra University as a lab engineer for almost 3 years.",
-            "text3": "Furthermore, I chaired the special sessions at ICGHIT 2019. I also served as artifact/articles evaluator/reviewer  of  IEEE/ACM (MICRO'21 and MICRO'22), IEEE (ICECS'21 and ICECS'22), IEEE (ISCAS'23), IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems and IEEE Access Journal. I am also member of Open-Source FPGA (OSFPGA) Education and Training Committee and a registered member of the Pakistan Engineering Council and Technical Education Lahore (Tevta), Pakistan. My current research interest includes: CPUs and their extension with neuromorphic systems such as systolic arrays, TPUs, accelerators and VPUs "
+            "text3": "Furthermore, I chaired the special sessions at ICGHIT 2019. I also served as artifact/articles evaluator/reviewer  of  IEEE/ACM (MICRO'21, MICRO'22 and MICRO'23), IEEE (ICECS'21 and ICECS'22), IEEE (ISCAS'22, ISCAS'23, ISCAS'24), IEEE TCAD, IEEE TV and IEEE Access Journal. I am member of Open-Source FPGA (OSFPGA) Education and Training Committee and a registered member of the Pakistan Engineering Council and Technical Education Lahore (Tevta), Pakistan. I also hold ACM profisional membership. To sum up,  My development interests span conventional architectures, CPUs, GPUs, and specialized chips like 2D Spatial Array-based accelerators and VPUs."
         }
     ]
 }
@@ -814,8 +814,8 @@ var workExperience = {
     "experiences": [
 
         {
-            "title": "Senior Research Engineer (RE-3) at Barcelona Supercomputing Center, Spain",
-            "detail": 'I am working in the RTL design team at Computer Sciences-European Exascale Accelerator (EEA) group, developing hardware IPs. Currently, working on tapeout based project known as PERTE, in it I specifically involved in designing 10 stages pipelined RISC-V (Out of order) core known as ”Lagarto OX.”',
+            "title": "Senior Design and Verification Engineer (RE-3) at Barcelona Supercomputing Center, Spain",
+            "detail": 'I am working in PERTE project RTL design team, developing hardware IPs. We are currently designing 10 stages pipelined RISC-V (Out of order) core known as ”Lagarto OX”. I mainly involve at frontend: on FETCH responsible for designing the branch predictor with given constraints and interfacing it with Recovery unit (RoB), and on backend: Floating Point Unit (FPU) and vector extension with Vector Processing Unit (VPU).',
             "link": "https://www.bsc.es/inayat-kashif",
             "text": "[Details]",
             "date": "Mar, 2023 - Current",
