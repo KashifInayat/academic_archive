@@ -26,7 +26,7 @@ var about = {
 	
 		{
             "name": "CV",
-            "link": 'https://drive.google.com/file/d/1q1PxqwPB5Y89kgEC2IfzJv36xXqOac2D/view',
+            "link": 'http://tinyurl.com/kashif-updated-cv',
             "icon": "cv",
         },
         {
