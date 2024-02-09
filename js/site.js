@@ -97,7 +97,7 @@ var recentUpdates = {
 
         {
             "date": "Aug, 2023",
-            "text": 'Our new work entitled, "PCHISEL: Automatic Power Intent Generation for a Chisel-based ASIC design", has been accepted at the Journal Computers & Electrical Engineering, 2024. (Impact Factor= 2.8).',
+            "text": 'Our new work entitled, "PCHISEL: Automatic Power Intent Generation for a Chisel-based ASIC design", has been accepted at the Journal Computers & Electrical Engineering, 2024. (Impact Factor= 4.3).',
             "link": "https://kashifinayat.github.io",
         },
 
