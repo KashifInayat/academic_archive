@@ -91,7 +91,13 @@ var recentUpdates = {
 
  {
             "date": "Aug, 2023",
-            "text": 'Our new work entitled, "Factored Systolic Arrays based on Radix-8 Multiplication for Machine Learning Acceleration", has been accepted at IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2023. (Impact Factor= 2.8).',
+            "text": 'Our new work entitled, "Factored Systolic Arrays based on Radix-8 Multiplication for Machine Learning Acceleration", has been accepted at IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2024. (Impact Factor= 2.8).',
+            "link": "https://kashifinayat.github.io",
+        },
+
+        {
+            "date": "Aug, 2023",
+            "text": 'Our new work entitled, "PCHISEL: Automatic Power Intent Generation for a Chisel-based ASIC design", has been accepted at the journal Computers & Electrical Engineering, 2024. (Impact Factor= 2.8).',
             "link": "https://kashifinayat.github.io",
         },
 
@@ -526,7 +532,7 @@ var publications = {
             "authorMePosition": "1",
             "publicationTitle": "Factored Systolic Arrays based on Radix-8 Multiplication for Machine Learning Acceleration",
             "publicationVenue": "IEEE Transactions on Very Large Scale Integration (TVLSI) Systems",
-            "publicationVenueInformation": "August, 2023",
+            "publicationVenueInformation": "Feb, 2024",
             "publicationDownloadText": "[View]",
             "publicationDownloadLink": "https://kashifinayat.github.io/#section-publications",
             "publicationImpactFactor": "2.8)",
@@ -535,6 +541,22 @@ var publications = {
             "isAccepted": "true"
 
         },	 
+
+        {
+            "authors": ["Fahad Bin Muslim","Kashif Inayat", "Safiullah Khan"],
+            "authorMePosition": "1",
+            "publicationTitle": "PCHISEL: Automatic Power Intent Generation for a Chisel-based ASIC design",
+            "publicationVenue": "journal Computers & Electrical Engineering",
+            "publicationVenueInformation": "Feb, 2024",
+            "publicationDownloadText": "[View]",
+            "publicationDownloadLink": "https://kashifinayat.github.io/#section-publications",
+            "publicationImpactFactor": "2.8)",
+            "comment": "",
+            "commentLink": "",
+            "isAccepted": "true"
+
+        },	
+
         {
             "authors": ["Kashif Inayat", "Fahad Bin Muslim", "Javed Iqbal", "Syed Mohsan", "Hend Alkahtani", "Samih M. Mostafa"],
             "authorMePosition": "1",
