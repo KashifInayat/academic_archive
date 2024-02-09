@@ -550,7 +550,7 @@ var publications = {
             "publicationVenueInformation": "Feb, 2024",
             "publicationDownloadText": "[View]",
             "publicationDownloadLink": "https://kashifinayat.github.io/#section-publications",
-            "publicationImpactFactor": "2.8)",
+            "publicationImpactFactor": "4.3)",
             "comment": "",
             "commentLink": "",
             "isAccepted": "true"
