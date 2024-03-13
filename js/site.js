@@ -21,7 +21,7 @@ var webURL = "https://kashifinayat.github.io/index.html";
 
 var about = {
    "name": "Kashif Inayat",
-    "heading": "SENIOR DESIGN AND VERIFICATION ENGINEER",
+    "heading": "SENIOR DESIGN ENGINEER",
     "profles": [
 	
 		{
@@ -77,7 +77,7 @@ var about = {
     ],
     "aboutText": [
         {
-            "text1": "I am working as a Senior Design and Verification (RE-3) Engineer at Barcelona Supercomputing Center in Computer Sciences-Microarchitecture Design and Implementation group. I completed Doctrate's degree in Electronic Engineering from the System-on-Chips (SoC) Laboratory of Incheon National University (INU), South Korea in January, 2023. It was a great privilege for me to work under Prof. Jaeyong Chung at INU. Earlier in 2019, I completed a Master's degree in Electronics and Computer Engineering at Hongik University under the guidance of Prof. Seong Oun Hwang.",
+            "text1": "I am working as a Senior Design Engineer (RE-3) at Barcelona Supercomputing Center in Computer Sciences-Microarchitecture Design and Implementation group. I completed Doctrate's degree in Electronic Engineering from the System-on-Chips (SoC) Laboratory of Incheon National University (INU), South Korea in January, 2023. It was a great privilege for me to work under Prof. Jaeyong Chung at INU. Earlier in 2019, I completed a Master's degree in Electronics and Computer Engineering at Hongik University under the guidance of Prof. Seong Oun Hwang.",
 			"text2": "I graduated from Iqra University Islamabad Campus, Pakistan in September, 2014 with a Bachelor's degree in Electronic Engineering under the supervision of Prof. Viqar Ahmed. During undergrad, I worked with FPGA Design Team at Renzym Private Limited during the summers of 2013. Upon completing my undergraduate degree, I worked at Computing and Science Department, Iqra University as a lab engineer for almost 3 years.",
             "text3": "Furthermore, I chaired the special sessions at ICGHIT 2019. I also served as artifact/articles evaluator/reviewer  of  IEEE/ACM (MICRO'21, MICRO'22 and MICRO'23), IEEE (ICECS'21 and ICECS'22), IEEE (ISCAS'22, ISCAS'23, ISCAS'24), IEEE TCAD, IEEE TV and IEEE Access Journal. I am member of Open-Source FPGA (OSFPGA) Education and Training Committee and a registered member of the Pakistan Engineering Council and Technical Education Lahore (Tevta), Pakistan. I also hold ACM profisional membership. To sum up,  my development interests span conventional architectures, CPUs, GPUs, and specialized chips like 2D Spatial Array-based accelerators and VPUs."
         }
@@ -491,7 +491,7 @@ var researchInterest = {
         },
         {
             "name": "tag line",
-            "text": 'My research agenda focuses on CPUs and its extension with neuromorphic systems, specifically along with systolic arrays, TPUs, accelerators and VPUs. On core side have special interest with Superscalar Out of Order (OoO) RISC-V and its Fetch stage (branch predictors, BTB, RAS and Predecoders etc) along with Rename stage. In addition, I draw upon doctrine from asymmetric cryptography, learn from machine learning, and apply electronics concepts to drive my research in the following applications: CPUs/GPUs, neuromorphic systems, machine learning accelerators, low power intent, computer arithmetic, and VLSI ',
+            "text": 'As a digital SoC microarchitect and full-stack hardware design engineer, I possess extensive experience in all facets of chip design, from specification to GDS-II. My development interests span conventional architectures, CPUs, GPUs, and ML specialized chips like 2D Spatial Array-based accelerators and VPUs. During my doctoral work, I mainly targeted the domain of machine learning accelerators and tensor processing units with special emphasis on area, delay, and power by rethinking the datapaths of digital arithmetic components such as modified booth multipliers, adders along with systolic arrays at micro-architecture level and published work in top VLSI venues such as DAC/PACT and IEEE TVLSI, etc. Furthermore, I draw upon doctrine from cryptography, learn from machine learning, and apply electronics concepts to drive my research in the following applications: CPUs/GPUs, neuromorphic systems, machine learning accelerators, low power intent, computer arithmetic, and VLSI. ',
             "links": [
                 {
                     "text": "View Publications",
