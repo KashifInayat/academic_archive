@@ -21,7 +21,7 @@ var webURL = "https://kashifinayat.github.io/index.html";
 
 var about = {
    "name": "Kashif Inayat",
-    "heading": "SENIOR DESIGN ENGINEER",
+    "heading": "SENIOR DESIGN ENGINEER Senior @ MICROARCHITECTURE DESIGN AND IMPLEMENTATION (CORE)",
     "profles": [
 	
 		{
