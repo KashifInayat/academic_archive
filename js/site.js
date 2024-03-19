@@ -836,7 +836,7 @@ var workExperience = {
     "experiences": [
 
         {
-            "title": "Senior Design and Verification Engineer at Barcelona Supercomputing Center, Spain",
+            "title": "Senior Design Engineer (RE3) at Barcelona Supercomputing Center, Spain",
             "detail": 'I am working in PERTE project RTL design team, developing hardware IPs. We are currently designing 10 stages pipelined RISC-V (Out of order) core known as ”Lagarto OX”. I mainly involve at frontend: on FETCH responsible for designing the branch predictor with given constraints and interfacing it with Recovery unit (RoB), and on backend: Floating Point Unit (FPU) and vector extension with Vector Processing Unit (VPU).',
             "link": "https://www.bsc.es/inayat-kashif",
             "text": "[Details]",
