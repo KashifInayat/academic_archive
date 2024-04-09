@@ -97,7 +97,7 @@ var recentUpdates = {
 
         {
             "date": "Aug, 2023",
-            "text": 'Our new work entitled, "PCHISEL: Automatic Power Intent Generation for a Chisel-based ASIC design", has been accepted at the Journal Computers & Electrical Engineering, 2024. (Impact Factor= 4.3).',
+            "text": 'Our new work entitled, "LPCHISEL: Automatic Power Intent Generation for a Chisel-based ASIC design", has been accepted at the Journal Computers & Electrical Engineering, 2024. (Impact Factor= 4.3).',
             "link": "https://kashifinayat.github.io",
         },
 
@@ -545,7 +545,7 @@ var publications = {
         {
             "authors": ["Fahad Bin Muslim","Kashif Inayat", "Safiullah Khan"],
             "authorMePosition": "1",
-            "publicationTitle": "PCHISEL: Automatic Power Intent Generation for a Chisel-based ASIC design",
+            "publicationTitle": "LPCHISEL: Automatic Power Intent Generation for a Chisel-based ASIC design",
             "publicationVenue": "Journal Computers & Electrical Engineering",
             "publicationVenueInformation": "Feb, 2024",
             "publicationDownloadText": "[View]",
