@@ -26,7 +26,7 @@ var about = {
 	
 		{
             "name": "CV",
-            "link": 'https://tinyurl.com/kashifinayat-cv',
+            "link": 'https://tinyurl.com/Kashif-CV-Updated',
             "icon": "cv",
         },
         {
