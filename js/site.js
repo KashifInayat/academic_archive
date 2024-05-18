@@ -70,7 +70,7 @@ var about = {
         //},
 		{
             "name": "Email",
-            "link": 'mailto:kashif.inayat@inu.ac.kr',
+            "link": 'mailto:engrkashifinayat@outlook.com',
             "icon": "email",
         }
 		
@@ -1747,7 +1747,7 @@ function recentUpdateRendeing() {
             displayRecentUpdates(recentUpdates.updates, "recentUpdates");
         }
         else {
-            displayRecentUpdates(recentUpdates.updates.slice(0, 10), "recentUpdates");
+            displayRecentUpdates(recentUpdates.updates.slice(0, 2), "recentUpdates");
         }
 
     }
