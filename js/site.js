@@ -43,7 +43,7 @@ var about = {
         		
 		  {
             "name": "GoogleScholar",
-            "link": 'https://scholar.google.com/citations?user=T9atqJEAAAAJ&hl=en',
+            "link": 'https://scholar.google.com/citations?user=oP8TxMoAAAAJ&hl=en',
             "icon": "google-scholar",
         },
 		
@@ -92,13 +92,13 @@ var recentUpdates = {
  {
             "date": "Aug, 2023",
             "text": 'Our new work entitled, "Factored Systolic Arrays based on Radix-8 Multiplication for Machine Learning Acceleration", has been accepted at IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2024. (Impact Factor= 2.8).',
-            "link": "https://kashifinayat.github.io",
+            "link": "https://ieeexplore.ieee.org/abstract/document/10520269",
         },
 
         {
             "date": "Aug, 2023",
             "text": 'Our new work entitled, "LPCHISEL: Automatic Power Intent Generation for a Chisel-based ASIC design", has been accepted at the Journal Computers & Electrical Engineering, 2024. (Impact Factor= 4.3).',
-            "link": "https://kashifinayat.github.io",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0045790624000430",
         },
 
 
@@ -107,7 +107,7 @@ var recentUpdates = {
  {
             "date": "Aug, 2023",
             "text": 'Our new work entitled, " Quickloop: An efficient, FPGA-accelerated exploration of parameterized DNN accelerators", has been acceptd at Parallel Architectures and Compilation Techniques (PACT), 2023.',
-            "link": "https://pact2023.github.io/",
+            "link": "https://ieeexplore.ieee.org/abstract/document/10364592",
         },
 
 
@@ -121,7 +121,7 @@ var recentUpdates = {
         {
             "date": "May, 2023",
             "text": 'Our new work entitled, "CSA Based Radix-4 Gemmini Systolic Array for Machine Learning Applications", has been accepted at International Symposium on Highly Efficient Accelerators and Reconfigurable Technology, 2023.',
-            "link": "https://heart2023.lila.cs.tsukuba.ac.jp/",
+            "link": "https://dl.acm.org/doi/abs/10.1145/3597031.3597056",
         },
 
 
@@ -534,7 +534,7 @@ var publications = {
             "publicationVenue": "IEEE Transactions on Very Large Scale Integration (TVLSI) Systems",
             "publicationVenueInformation": "Feb, 2024",
             "publicationDownloadText": "[View]",
-            "publicationDownloadLink": "https://kashifinayat.github.io/#section-publications",
+            "publicationDownloadLink": "https://ieeexplore.ieee.org/abstract/document/10520269",
             "publicationImpactFactor": "2.8)",
             "comment": "",
             "commentLink": "",
@@ -549,7 +549,7 @@ var publications = {
             "publicationVenue": "Journal Computers & Electrical Engineering",
             "publicationVenueInformation": "Feb, 2024",
             "publicationDownloadText": "[View]",
-            "publicationDownloadLink": "https://kashifinayat.github.io/#section-publications",
+            "publicationDownloadLink": "https://www.sciencedirect.com/science/article/abs/pii/S0045790624000430",
             "publicationImpactFactor": "4.3)",
             "comment": "",
             "commentLink": "",
@@ -1097,6 +1097,28 @@ var skillspProf = {
     ]
 }
 
+
+var skillspProf = {
+    "skills": [
+        {
+            "title": "HDL: Verilog/VHDL/SystemVerilog",
+            "detail": 'Design and Verification of Hardware Computer Arithmetic Units/Computer Architectures (since 2013) and Deep Learning Accelerators (since 2019).',
+            "comments": "Since 2013 - Current",
+         },
+
+
+
+		{
+            "title": "ASIC Design Tools: Modelsim, VCS, Design Compiler, PrimeTime PX",
+            "detail": 'Perform Behavior Simulation and Post-Synthesis Simulation using Mentor Graphics Modelsim (since 2013) and Synopsys VCS (since 2019). Perform Logic Synthesis for static timing analysis (STA) using Synopsys Design Compiler and Power Estimation using Synopsys PrimeTime PX/Prime Power (since 2019).',
+            "comments": "Since, 2013 - Current",
+        }
+ 
+		
+		
+      
+    ]
+}
 
   ////////////////////////////
  //			 ARCHIVE       //
@@ -1889,7 +1911,7 @@ function displayHonorsAwards() {
 
 //Skills skillspProf
 function displaySkillspProf() {
-    var myList = '<ul class="c-tabs__list" id="honorsawardul">';
+    var myList = '<ul class="c-tabs__list" id="skillsproful">';
     skillspProf.skills.forEach(function (skill) {
 
         myList += '<li><h4>' + skill.title + '<span style="float:right">' + skill.comments + '</span></h4><p>' + skill.detail + '</p></li>';
