@@ -1288,7 +1288,7 @@ var conferencesLinks = {
                 }
         },
 
-        {	"title": "IEEE International Conference on Computer Design",	
+        {	"title": "IEEE International Conference on Computer Design (ICCD)",	
 		
             "link": "https://www.iccd-conf.com/Program_Committee.html",
             
