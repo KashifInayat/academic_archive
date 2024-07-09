@@ -1287,6 +1287,17 @@ var conferencesLinks = {
                     "link": "https://dblp.org/db/conf/dac/index.html",
                 }
         },
+
+        {	"title": "IEEE International Conference on Computer Design",	
+		
+            "link": "https://www.iccd-conf.com/Program_Committee.html",
+            
+			"detail": 
+                {
+                    "text": "[Proceedings]",
+                    "link": "https://www.iccd-conf.com/ICCD_Previous_Editions.html",
+                }
+        },
 		
 		
 	{	"title": "Design, Automation & Test in Europe (DATE)	",	
