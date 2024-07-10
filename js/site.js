@@ -462,7 +462,7 @@ var researchInterest = {
             "isTagLine": "false"
         },
         {
-            "name": "Neuromorphics Computing, Tensor Processing and Accelerators",
+            "name": "Neuromorphics Computing, TPU/VPU and Accelerators",
             "text": 'Check my publications',
             "links": [
                 {
@@ -497,7 +497,7 @@ var researchInterest = {
         },
         {
             "name": "tag line",
-            "text": 'As a digital SoC microarchitect and full-stack hardware design engineer, I possess extensive experience in all facets of chip design, from specification to GDS-II. My development interests span conventional architectures, CPUs, GPUs, and ML specialized chips like 2D Spatial Array-based accelerators and VPUs. During my doctoral work, I mainly targeted the domain of machine learning accelerators and tensor processing units with special emphasis on area, delay, and power by rethinking the datapaths of digital arithmetic components such as modified booth multipliers, adders along with systolic arrays at micro-architecture level and published work in top VLSI venues such as DAC/PACT and IEEE TVLSI, etc. Furthermore, I draw upon doctrine from cryptography, learn from machine learning, and apply electronics concepts to drive my research in the following applications: CPUs/GPUs, neuromorphic systems, machine learning accelerators, low power intent, computer arithmetic, and VLSI. ',
+            "text": 'To sum up, my development interests span conventional architectures, CPUs, GPUs, and specialized chips like 2D Spatial Array-based accelerators and VPUs.',
             "links": [
                 {
                     "text": "View Publications",
@@ -1098,27 +1098,27 @@ var skillspProf = {
 }
 
 
-var skillspProf = {
-    "skills": [
-        {
-            "title": "HDL: Verilog/VHDL/SystemVerilog",
-            "detail": 'Design and Verification of Hardware Computer Arithmetic Units/Computer Architectures (since 2013) and Deep Learning Accelerators (since 2019).',
-            "comments": "Since 2013 - Current",
-         },
+// var skillspProf = {
+//     "skills": [
+//         {
+//             "title": "HDL: Verilog/VHDL/SystemVerilog",
+//             "detail": 'Design and Verification of Hardware Computer Arithmetic Units/Computer Architectures (since 2013) and Deep Learning Accelerators (since 2019).',
+//             "comments": "Since 2013 - Current",
+//          },
 
 
 
-		{
-            "title": "ASIC Design Tools: Modelsim, VCS, Design Compiler, PrimeTime PX",
-            "detail": 'Perform Behavior Simulation and Post-Synthesis Simulation using Mentor Graphics Modelsim (since 2013) and Synopsys VCS (since 2019). Perform Logic Synthesis for static timing analysis (STA) using Synopsys Design Compiler and Power Estimation using Synopsys PrimeTime PX/Prime Power (since 2019).',
-            "comments": "Since, 2013 - Current",
-        }
+// 		{
+//             "title": "ASIC Design Tools: Modelsim, VCS, Design Compiler, PrimeTime PX",
+//             "detail": 'Perform Behavior Simulation and Post-Synthesis Simulation using Mentor Graphics Modelsim (since 2013) and Synopsys VCS (since 2019). Perform Logic Synthesis for static timing analysis (STA) using Synopsys Design Compiler and Power Estimation using Synopsys PrimeTime PX/Prime Power (since 2019).',
+//             "comments": "Since, 2013 - Current",
+//         }
  
 		
 		
       
-    ]
-}
+//     ]
+// }
 
   ////////////////////////////
  //			 ARCHIVE       //
