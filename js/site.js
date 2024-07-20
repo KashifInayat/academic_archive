@@ -559,7 +559,7 @@ var publications = {
             "publicationDownloadText": "[Under-Review]",
             "publicationDownloadLink": "https://www.bsc.es/inayat-kashif",
             "publicationImpactFactor": "3.7)",
-            "comment": "One revision finished",
+            "comment": "",
             "commentLink": "",
             "isAccepted": "true"
 
