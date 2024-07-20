@@ -536,8 +536,8 @@ var publications = {
 
 
         {
-            "authors": ["Young-Seo Yoon", "Joon-Sung Yang", "Jaeyong Chung"],
-            "authorMePosition": "1",
+            "authors": ["Young-Seo Yoon", "Kashif Inayat","Joon-Sung Yang", "Jaeyong Chung"],
+            "authorMePosition": "2",
             "publicationTitle": "Factored Systolic Arrays Using a Fast Area-Efficient Carry Save Form Compressor",
             "publicationVenue": "IEEE Transactions on Very Large Scale Integration (TVLSI) Systems",
             "publicationVenueInformation": "July, 2024",
@@ -567,7 +567,7 @@ var publications = {
        
         {
             "authors": ["Safiullah Khan", "Kashif Inayat", "Fahad Bin Muslim"],
-            "authorMePosition": "1",
+            "authorMePosition": "2",
             "publicationTitle": "Securing the IoT Ecosystem: ASIC-Based Hardware Realization of Ascon Lightweight Cipher",
             "publicationVenue": "International Journal of Information Security",
             "publicationVenueInformation": "Feb, 2024",
