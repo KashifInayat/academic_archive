@@ -536,7 +536,7 @@ var publications = {
 
 
         {
-            "authors": ["Young-Seo Yoon", "Kashif Inayat","Joon-Sung Yang", "Jaeyong Chung"],
+            "authors": ["Young-Seo Yoon", "Kashif Inayat", "Joon-Sung Yang", "Jaeyong Chung"],
             "authorMePosition": "2",
             "publicationTitle": "Factored Systolic Arrays Using a Fast Area-Efficient Carry Save Form Compressor",
             "publicationVenue": "IEEE Transactions on Very Large Scale Integration (TVLSI) Systems",
