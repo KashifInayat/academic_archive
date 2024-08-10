@@ -558,7 +558,7 @@ var publications = {
         {
             "authors": ["Kashif Inayat", "Fahad Bin Muslim", "Tayyeb Mahmood", "Jaeyong Chung"],
             "authorMePosition": "1",
-            "publicationTitle": "PGA-assisted Design Space Exploration of Parameterized AI Accelerators: A Quickloop Approach",
+            "publicationTitle": "FPGA-assisted Design Space Exploration of Parameterized AI Accelerators: A Quickloop Approach",
             "publicationVenue": "Journal of Systems Architecture",
             "publicationVenueInformation": "April, 2024",
             "publicationDownloadText": "[View]",
