@@ -90,7 +90,7 @@ var recentUpdates = {
      "updates": [
 
 {
-    "date": "Apr, 2023",
+    "date": "July, 2024",
     "text": 'Our new work entitled, "Factored Systolic Arrays Using a Fast Area-Efficient Carry Save Form Compressor", has been submitted at IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2024. (Impact Factor= 2.8).',
     "link": "https://kashifinayat.github.io",
 },
