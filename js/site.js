@@ -95,23 +95,28 @@ var recentUpdates = {
     "link": "https://kashifinayat.github.io",
 },
 
- {
-            "date": "Aug, 2023",
+
+        {
+            "date": "July, 2024",
+            "text": 'Our new work entitled, "FPGA-assisted Design Space Exploration of Parameterized AI Accelerators: A Quickloop Approach", has been accepted at ournal of Systems Architecture, 2024. (Impact Factor= 3.7).',
+            "link": "https://www.sciencedirect.com/journal/journal-of-systems-architecture",
+        },
+
+        {
+            "date": "Feb, 2024",
             "text": 'Our new work entitled, "Factored Systolic Arrays based on Radix-8 Multiplication for Machine Learning Acceleration", has been accepted at IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2024. (Impact Factor= 2.8).',
             "link": "https://ieeexplore.ieee.org/abstract/document/10520269",
         },
 
         {
-            "date": "Aug, 2023",
+            "date": "Feb, 2024",
             "text": 'Our new work entitled, "LPCHISEL: Automatic Power Intent Generation for a Chisel-based ASIC design", has been accepted at the Journal Computers & Electrical Engineering, 2024. (Impact Factor= 4.3).',
             "link": "https://www.sciencedirect.com/science/article/abs/pii/S0045790624000430",
         },
 
 
-
-
  {
-            "date": "Aug, 2023",
+            "date": "April, 2023",
             "text": 'Our new work entitled, " Quickloop: An efficient, FPGA-accelerated exploration of parameterized DNN accelerators", has been acceptd at Parallel Architectures and Compilation Techniques (PACT), 2023.',
             "link": "https://ieeexplore.ieee.org/abstract/document/10364592",
         },
@@ -553,10 +558,10 @@ var publications = {
         {
             "authors": ["Kashif Inayat", "Fahad Bin Muslim", "Tayyeb Mahmood", "Jaeyong Chung"],
             "authorMePosition": "1",
-            "publicationTitle": "Quickloop: An efficient, FPGA-accelerated exploration of parameterized DNN accelerators",
+            "publicationTitle": "PGA-assisted Design Space Exploration of Parameterized AI Accelerators: A Quickloop Approach",
             "publicationVenue": "Journal of Systems Architecture",
             "publicationVenueInformation": "April, 2024",
-            "publicationDownloadText": "[Under-Review]",
+            "publicationDownloadText": "[View]",
             "publicationDownloadLink": "https://kashifinayat.github.io/#section-publications",
             "publicationImpactFactor": "3.7)",
             "comment": "",
