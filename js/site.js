@@ -562,7 +562,7 @@ var publications = {
             "publicationVenue": "Journal of Systems Architecture",
             "publicationVenueInformation": "April, 2024",
             "publicationDownloadText": "[View]",
-            "publicationDownloadLink": "https://kashifinayat.github.io/#section-publications",
+            "publicationDownloadLink": "https://www.sciencedirect.com/journal/journal-of-systems-architecture",
             "publicationImpactFactor": "3.7)",
             "comment": "",
             "commentLink": "",
