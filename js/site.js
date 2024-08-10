@@ -1771,8 +1771,8 @@ var conferencesLinks = {
 var contacts = {
     "contact":
     {
-        "email": "kashifinayat [at] acm.org",
-        "skype": "engrkashifinayat [at] outlook.com ",
+        "email": "engrkashifinayat [at] outlook.com",
+        "skype": "kashif.inayat [at] inu.ac.kr ",
         "mobile": "+34607147086",
         "lab": "Tillers Building, 2nd Floor, Barcelona Supercomputing Center",
         "department": "Plaça Eusebi Güell, 1-3 08034 Barcelona (Spain)",
