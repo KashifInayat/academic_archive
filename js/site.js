@@ -89,6 +89,12 @@ var about = {
 var recentUpdates = {
      "updates": [
 
+        {
+            "date": "August, 2024",
+            "text": 'Our new work entitled, "Securing the IoT Ecosystem: ASIC-Based Hardware Realization of Ascon Lightweight Cipher", has been accepted at International Journal of Information Security, 2024. (Impact Factor= 2.4).',
+            "link": "https://link.springer.com/journal/10207",
+        },
+
 {
     "date": "July, 2024",
     "text": 'Our new work entitled, "Factored Systolic Arrays Using a Fast Area-Efficient Carry Save Form Compressor", has been submitted at IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2024. (Impact Factor= 2.8).',
@@ -98,7 +104,7 @@ var recentUpdates = {
 
         {
             "date": "July, 2024",
-            "text": 'Our new work entitled, "FPGA-assisted Design Space Exploration of Parameterized AI Accelerators: A Quickloop Approach", has been accepted at ournal of Systems Architecture, 2024. (Impact Factor= 3.7).',
+            "text": 'Our new work entitled, "FPGA-assisted Design Space Exploration of Parameterized AI Accelerators: A Quickloop Approach", has been accepted at Journal of Systems Architecture, 2024. (Impact Factor= 3.7).',
             "link": "https://www.sciencedirect.com/journal/journal-of-systems-architecture",
         },
 
@@ -536,6 +542,8 @@ var researchInterest = {
  //      PUBLICATIONS      //
 ////////////////////////////
 
+
+
 var publications = {
     "journals": [
 
@@ -575,9 +583,9 @@ var publications = {
             "authorMePosition": "2",
             "publicationTitle": "Securing the IoT Ecosystem: ASIC-Based Hardware Realization of Ascon Lightweight Cipher",
             "publicationVenue": "International Journal of Information Security",
-            "publicationVenueInformation": "Feb, 2024",
-            "publicationDownloadText": "[Under-Review]",
-            "publicationDownloadLink": "https://kashifinayat.github.io/#section-publications",
+            "publicationVenueInformation": "Aug, 2024",
+            "publicationDownloadText": "[View]",
+            "publicationDownloadLink": "https://link.springer.com/journal/10207",
             "publicationImpactFactor": "2.4)",
             "comment": "",
             "commentLink": "",
