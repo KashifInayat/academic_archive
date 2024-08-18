@@ -999,9 +999,35 @@ var shortCourses = {
     "courses": [
 
         {
+            "title": "Language: SystemVerilog for RTL Design",
+            "platform": 'Synopsys. ',
+            "link": "https://tinyurl.com/sv-synopsys",
+            "text": "[Certificate]",
+            "comments": "Aug, 2024 - Life Time",
+        } ,
+
+        {
+            "title": "Tcl 2: Creating Procedures",
+            "platform": 'Synopsys. ',
+            "link": "https://tinyurl.com/tcl-2-synopsys",
+            "text": "[Certificate]",
+            "comments": "Sep, 2023 - Life Time",
+        } ,
+
+        {
+            "title": "Tcl 1: Becoming a Proficient User",
+            "platform": 'Synopsys. ',
+            "link": "https://tinyurl.com/tcl-1-synopsys",
+            "text": "[Certificate]",
+            "comments": "Sep, 2023 - Life Time",
+        } ,
+
+
+
+        {
             "title": "SystemVerilog Verification with UVM",
             "platform": 'IC Design Education Center (IDEC), South Korea. ',
-            "link": "https://tinyurl.com/svuvm-idec",
+            "link": "https://tinyurl.com/sv-uvm-idec-kr",
             "text": "[Certificate]",
             "comments": "Oct, 2022 - Life Time",
         } ,
@@ -1009,7 +1035,7 @@ var shortCourses = {
 	{
             "title": "[Synopsys] Block-level Auto P&R using IC Compiler II",
             "platform": 'IC Design Education Center (IDEC), South Korea. ',
-            "link": "https://tinyurl.com/ICCII-IDEC",
+            "link": "https://tinyurl.com/icc-2-idec-kr",
             "text": "[Certificate]",
             "comments": "Oct, 2021 - Life Time",
         } ,
@@ -1017,7 +1043,7 @@ var shortCourses = {
 	{
             "title": "Deep Learning Fundamentals and Design",
             "platform": 'IC Design Education Center (IDEC), South Korea. ',
-            "link": "https://tinyurl.com/DLearning-IDEC",
+            "link": "https://tinyurl.com/dl-idec-kr",
             "text": "[Certificate]",
             "comments": "Aug, 2021 - Life Time",
         } ,
@@ -1025,7 +1051,7 @@ var shortCourses = {
 	{
             "title": "Analog Circuits Custom Compiler for  CAD Schematic/Layout Editor",
             "platform": 'IC Design Education Center (IDEC), South Korea. ',
-            "link": "https://tinyurl.com/acad-idec",
+            "link": "https://tinyurl.com/acad-idec-kr",
             "text": "[Certificate]",
             "comments": "Aug, 2021 - Life Time",
         } ,
@@ -1033,7 +1059,7 @@ var shortCourses = {
 		{
             "title": "Design of Low-power Artificial Intelligence Hardware for Edge Devices",
             "platform": 'IC Design Education Center (IDEC), South Korea. ',
-            "link": "https://tinyurl.com/lpEd-idec",
+            "link": "https://tinyurl.com/lpwr-ai-idec-kr",
             "text": "[Certificate]",
             "comments": "Aug, 2021 - Life Time",
         } ,
@@ -1041,7 +1067,7 @@ var shortCourses = {
 		{
             "title": "Low power design (PnR) for Multi-Voltage Design implementation",
             "platform": 'IC Design Education Center (IDEC), South Korea. ',
-            "link": "https://tinyurl.com/vlsiPnR-idec",
+            "link": "ttps://tinyurl.com/vlsi-pnr-idec-kr",
             "text": "[Certificate]",
             "comments": "Aug, 2021 - Life Time",
         } ,
@@ -1049,14 +1075,14 @@ var shortCourses = {
 		{
             "title": "Optimization Technique for High-efficiency VLSI Signal Processing",
             "platform": 'IC Design Education Center (IDEC), South Korea. ',
-            "link": "https://tinyurl.com/vlsi1-idec",
+            "link": "https://tinyurl.com/vlsi-opt-idec-kr",
             "text": "[Certificate]",
             "comments": "Aug, 2021 - Life Time",
         } ,
 		{
             "title": "Simple Neuromorphic System Design Using FPGAs",
             "platform": 'IC Design Education Center (IDEC), South Korea. ',
-            "link": "https://tinyurl.com/fpga1-idec",
+            "link": "https://tinyurl.com/fpga-idec-kr",
             "text": "[Certificate]",
             "comments": "Jul, 2021 - Life Time",
         } ,
