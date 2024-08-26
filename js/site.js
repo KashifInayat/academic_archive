@@ -454,7 +454,7 @@ var educationList = {
             "department": "Electronics Engineering, Government Polytechnic Institute (GPI), Sargodha, Pakistan",
             "CGPA": "(Percent: 75.7%)",
             "advisorInfo": {
-                "name": "Lec. Ajmeery Lal",
+                "name": "-",
                 "link": "",
             }
         }
