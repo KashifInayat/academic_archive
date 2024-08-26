@@ -866,9 +866,9 @@ p {
       .c-card__item--text-only .c-card__text {
         color: #fefefe;
         font-style: italic;
-        font-weight: 900;
+        font-weight: 110;
         font-family: "Lora", sans-serif;
-        font-size: 0.78rem;
+        font-size: 1.1rem;
         line-height: 1.55; }
       .c-card__item--text-only:hover::before {
         display: none; }
