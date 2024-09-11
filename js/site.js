@@ -97,7 +97,7 @@ var recentUpdates = {
 
 {
     "date": "July, 2024",
-    "text": 'Our new work entitled, "Factored Systolic Arrays Using a Fast Area-Efficient Carry Save Form Compressor", has been submitted at IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2024. (Impact Factor= 2.8).',
+    "text": 'Our new work entitled, "Factored Systolic Arrays Using a Fast Area-Efficient Carry Save Form Compressor", has been submitted at IEEE Transactions on Circuits and Systems II: Express Briefs, 2024. (Impact Factor= 4).',
     "link": "https://kashifinayat.github.io",
 },
 
@@ -552,11 +552,11 @@ var publications = {
             "authors": ["Young-Seo Yoon", "Kashif Inayat", "Joon-Sung Yang", "Jaeyong Chung"],
             "authorMePosition": "2",
             "publicationTitle": "Factored Systolic Arrays Using a Fast Area-Efficient Carry Save Form Compressor",
-            "publicationVenue": "IEEE Transactions on Very Large Scale Integration (TVLSI) Systems",
-            "publicationVenueInformation": "July, 2024",
+            "publicationVenue": "IEEE Transactions on Circuits and Systems II: Express Briefs",
+            "publicationVenueInformation": "September, 2024",
             "publicationDownloadText": "[Under-Review]",
             "publicationDownloadLink": "https://kashifinayat.github.io/#section-publications",
-            "publicationImpactFactor": "2.8)",
+            "publicationImpactFactor": "4)",
             "comment": "",
             "commentLink": "",
             "isAccepted": "true"
