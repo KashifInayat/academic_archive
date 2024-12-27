@@ -90,6 +90,11 @@ var recentUpdates = {
      "updates": [
 
         {
+            "date": "Oct, 2024",
+            "text": 'I am humble to join Custom Nuvia CPU Team as senior engineer with permanent position at Qualcomm Technologies Inc. Cork, Ireland',
+            "link": "https://kashifinayat.github.io",
+        },
+        {
             "date": "August, 2024",
             "text": 'Our new work entitled, "Securing the IoT Ecosystem: ASIC-Based Hardware Realization of Ascon Lightweight Cipher", has been accepted at International Journal of Information Security, 2024. (Impact Factor= 2.4).',
             "link": "https://link.springer.com/journal/10207",
@@ -900,6 +905,16 @@ var publications = {
 ////////////////////////////
 var workExperience = {
     "experiences": [
+
+        {
+            "title": "Senior Engineer, Custom Nuvia CPU Team, at Qualcomm Technologies Inc. Cork, Ireland",
+            "detail": 'I am part of Nuvia Custom CPU group. Crafting next-gen Oryon CPUs, relentlessly advancing the state-of-the-art.',
+            "link": "https://kashifinayat.github.io",
+            "text": "[Details]",
+            "date": "Oct, 2023 - Current",
+        },
+
+
 
         {
             "title": "Senior Design Engineer (RE3) at Barcelona Supercomputing Center, Spain",
