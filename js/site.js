@@ -21,7 +21,7 @@ var webURL = "https://kashifinayat.github.io/index.html";
 
 var about = {
    "name": "Kashif Inayat",
-    "heading": "SENIOR ENGINEER @ Cutom CPU TEAM, Qualcomm Technologies Inc.",
+    "heading": "SENIOR ENGINEER @ Custom Nuvia CPU TEAM, Qualcomm Technologies Inc.",
     "profles": [
 	
 		{
